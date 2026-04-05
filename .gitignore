@@ -1,0 +1,14 @@
+# Python系
+__pycache__/
+*.py[codz]
+*$py.class
+
+# AIツール
+.claude/
+
+# プロジェクト固有
+output/
+Jp-original.csv
+Jp-new.csv
+Jp-beta-original.csv
+Jp-beta-new.csv
