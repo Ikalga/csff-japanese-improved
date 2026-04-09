@@ -1,5 +1,5 @@
 # csff-japanese-improved
-ゲーム [Card Survival: Fantasy Forest](https://store.steampowered.com/app/2868860/Card_Survival_Fantasy_Forest/) の日本語訳改善プロジェクトです。
+ゲーム [Card Survival: Fantasy Forest](https://store.steampowered.com/app/2868860/Card_Survival_Fantasy_Forest/) の日本語訳改善プロジェクト (非公式) です。
 
 ## 翻訳進捗
 現在の翻訳完了率は全体の約 76% です。  
@@ -21,6 +21,16 @@
 ### ベータブランチの場合
 当リポジトリの Jp.csv ではなく、Jp-beta.csv をダウンロードし、Jp.csvにリネームした上で上書きコピーしてください。  
 ただし、ベータ版については動作確認はできていません。
+
+### Mod Core を使用している場合
+> ⚠️ 以下の手順は未検証です。動作しない場合は通常の導入手順をお試しください。
+
+Nexus Mods で公開されている [Mod Core](https://www.nexusmods.com/cardsurvivalfantasyforest/mods/1) を導入済みの場合、ゲームファイルを直接書き換えずに導入できるはずです。
+
+1. 当リポジトリの [Jp.csv](https://github.com/Ikalga/csff-japanese-improved/blob/main/Jp.csv) をダウンロードする
+2. `(ゲームインストールフォルダ)/BepInEx/plugins/` の中に `csff-japanese-improved/Localization/` フォルダを作成する
+3. ダウンロードした `Jp.csv` を上記フォルダに配置する
+4. ゲームを起動する
 
 ## Q&A
 
