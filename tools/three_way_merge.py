@@ -12,7 +12,7 @@ Arguments:
     output       : 出力 CSV ファイルパス
 
 出力列:
-    キー, 英語, 旧公式, 新公式, 改善版, 状態
+    キー, 旧英語, 新英語, 旧日本語, 新日本語, 改善版日本語, 英語変更, 状態
 
 状態の値:
     conflict         : 新公式・改善版の両方が別々に変更
@@ -79,23 +79,27 @@ def main():
 
     rows = []
     for key in all_keys:
-        old_en, old_jp = old.get(key, ("", ""))
+        old_entry = old.get(key)
         new_entry = new.get(key)
         mod_entry = mod.get(key)
 
-        new_en = new_entry[0] if new_entry else old_en
+        old_en = old_entry[0] if old_entry else ""
+        old_jp = old_entry[1] if old_entry else ""
+        new_en = new_entry[0] if new_entry else ""
         new_jp = new_entry[1] if new_entry else ""
         mod_jp = mod_entry[1] if mod_entry else ""
 
-        english = new_en or old_en
+        english_changed = "○" if old_en != new_en else "-"
         status = classify(key in old, key in new, key in mod, old_jp, new_jp, mod_jp)
 
         rows.append([
             key,
-            english,
+            old_en,
+            new_en,
             old_jp,
             new_jp,
             mod_jp,
+            english_changed,
             status,
         ])
 
@@ -103,11 +107,11 @@ def main():
     out.parent.mkdir(parents=True, exist_ok=True)
     with open(out, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f, lineterminator='\n')
-        writer.writerow(["キー", "英語", "旧公式", "新公式", "改善版", "状態"])
+        writer.writerow(["キー", "旧英語", "新英語", "旧日本語", "新日本語", "改善版日本語", "英語変更", "状態"])
         writer.writerows(rows)
 
     # サマリー
-    counter = Counter(r[5] for r in rows)
+    counter = Counter(r[7] for r in rows)
     status_order = ["conflict", "official_changed", "mod_changed", "added", "deleted", "mod_only", "untranslated", "unchanged"]
     print(f"\n出力完了: {out_path}  ({len(rows)} 行)")
     print("-" * 40)
