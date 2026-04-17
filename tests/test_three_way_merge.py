@@ -98,9 +98,9 @@ class TestMain(unittest.TestCase):
             mod_rows=[["KEY", "English", "改善訳"]],
         )
         header, rows = read_output_csv(out)
-        self.assertEqual(header, ["キー", "英語", "旧公式", "新公式", "改善版", "状態"])
+        self.assertEqual(header, ["キー", "旧英語", "新英語", "旧日本語", "新日本語", "改善版日本語", "英語変更", "状態"])
         self.assertEqual(len(rows), 1)
-        self.assertEqual(rows[0], ["KEY", "English", "旧訳", "旧訳", "改善訳", "mod_changed"])
+        self.assertEqual(rows[0], ["KEY", "English", "English", "旧訳", "旧訳", "改善訳", "-", "mod_changed"])
 
     def test_output_key_order_follows_new(self):
         """出力行の順序が新公式のキー順に一致する。"""
@@ -121,7 +121,7 @@ class TestMain(unittest.TestCase):
             mod_rows=[],
         )
         _, rows = read_output_csv(out)
-        deleted = [r for r in rows if r[5] == "deleted"]
+        deleted = [r for r in rows if r[7] == "deleted"]
         self.assertEqual(len(deleted), 1)
         self.assertEqual(deleted[0][0], "KEY_DEL")
         # deleted キーは新公式キーの後ろ
@@ -136,7 +136,7 @@ class TestMain(unittest.TestCase):
             mod_rows=[],
         )
         _, rows = read_output_csv(out)
-        added = [r for r in rows if r[5] == "added"]
+        added = [r for r in rows if r[7] == "added"]
         self.assertEqual(len(added), 1)
         self.assertEqual(added[0][0], "KEY_NEW")
 
@@ -148,9 +148,21 @@ class TestMain(unittest.TestCase):
             mod_rows=[["KEY_A", "ea", "改善訳"], ["KEY_MOD", "em", "jm"]],
         )
         _, rows = read_output_csv(out)
-        mod_only = [r for r in rows if r[5] == "mod_only"]
+        mod_only = [r for r in rows if r[7] == "mod_only"]
         self.assertEqual(len(mod_only), 1)
         self.assertEqual(mod_only[0][0], "KEY_MOD")
+
+    def test_english_changed_flag(self):
+        """英語訳が変化したキーは英語変更列が ○、変化しないキーは - になる。"""
+        out = self._run_main(
+            old_rows=[["KEY_A", "old english", "ja"], ["KEY_B", "same", "jb"]],
+            new_rows=[["KEY_A", "new english", "ja"], ["KEY_B", "same", "jb"]],
+            mod_rows=[],
+        )
+        _, rows = read_output_csv(out)
+        by_key = {r[0]: r for r in rows}
+        self.assertEqual(by_key["KEY_A"][6], "○")
+        self.assertEqual(by_key["KEY_B"][6], "-")
 
     def test_missing_arg_exits(self):
         """引数が 4つ未満のとき sys.exit が呼ばれる。"""
