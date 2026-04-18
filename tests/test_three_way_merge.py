@@ -139,6 +139,8 @@ class TestMain(unittest.TestCase):
         added = [r for r in rows if r[7] == "added"]
         self.assertEqual(len(added), 1)
         self.assertEqual(added[0][0], "KEY_NEW")
+        # 旧公式に存在しないキーは英語変更フラグを - にする
+        self.assertEqual(added[0][6], "-")
 
     def test_mod_only_keys_appended(self):
         """改善版にのみ存在するキーが末尾に "mod_only" として出力される。"""

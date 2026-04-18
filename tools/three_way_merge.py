@@ -89,7 +89,7 @@ def main():
         new_jp = new_entry[1] if new_entry else ""
         mod_jp = mod_entry[1] if mod_entry else ""
 
-        english_changed = "○" if old_en != new_en else "-"
+        english_changed = "○" if (key in old and key in new and old_en != new_en) else "-"
         status = classify(key in old, key in new, key in mod, old_jp, new_jp, mod_jp)
 
         rows.append([
