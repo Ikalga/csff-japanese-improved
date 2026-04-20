@@ -1092,8 +1092,8 @@ Bp_BoneNeedle_UnlockConditionsDesc,Bone Pieces Needed,骨の欠片が必要
 Bp_Broom_CardName,Broom,ほうき
 Bp_Broom_CardDescription,Used for sweeping and cleaning indoor areas.,床掃除に使う。
 Bp_Broom_UnlockConditionsDesc,Reeds Needed,ヨシが必要
-Bp_ButcheringMat_CardName,Butchering Mat,
-Bp_ButcheringMat_CardDescription,A mat that helps keep things clean while butchering.,
+Bp_ButcheringMat_CardName,Butchering Mat,解体マット
+Bp_ButcheringMat_CardDescription,A mat that helps keep things clean while butchering.,解体作業を清潔に保つためのマット。
 Bp_ButcheringMat_UnlockConditionsDesc,Reeds Needed,ヨシが必要
 Bp_Campfire_CardName,Campfire,キャンプファイヤー
 Bp_Campfire_CardDescription,"Perfect for cooking, should provide me with warmth and light.",料理に最適で、暖かさと明るさを確保できる。
@@ -9354,14 +9354,14 @@ FirerootBoiled_SpoilageTime.OnFull.ActionDescription,Fireroot Spoiled!,ファイ
 FirerootBoiled_FuelCapacity.CardStatName,Temperature,温度
 FirerootBoiled_SpecialDurability2.CardStatName,Quality,クオリティ
 FirerootBoiled_DismantleActions[0].ActionName,Eat,食べる
-FishMeatFattyBoiled_CardName,Boiled Fatty Fish Meat,
+FishMeatFattyBoiled_CardName,Boiled Fatty Fish Meat,茹でた白身魚
 FishMeatFattyBoiled_CardDescription,Tasty and nutritious.,美味しくて栄養豊富。
 FishMeatFattyBoiled_SpoilageTime.CardStatName,Spoilage,腐敗
 FishMeatFattyBoiled_SpoilageTime.OnFull.ActionDescription,Fish Meat Spoiled!,魚肉が腐った！
 FishMeatFattyBoiled_FuelCapacity.CardStatName,Temperature,温度
 FishMeatFattyBoiled_SpecialDurability2.CardStatName,Quality,クオリティ
 FishMeatFattyBoiled_DismantleActions[0].ActionName,Eat,食べる
-FishMeatBoiled_CardName,Boiled Lean Fish Meat,茹でた魚
+FishMeatBoiled_CardName,Boiled Lean Fish Meat,茹でた赤身魚
 FishMeatBoiled_CardDescription,Tasty and nutritious.,美味しくて栄養豊富。
 FishMeatBoiled_SpoilageTime.CardStatName,Spoilage,腐敗
 FishMeatBoiled_SpoilageTime.OnFull.ActionDescription,Fish Meat Spoiled!,魚肉が腐った！
@@ -10480,7 +10480,7 @@ FairyweedFresh_Progress.OnFull.ActionDescription,Fairyweed has taken.,
 FairyweedFresh_SpecialDurability1.CardStatName,Burn,焼く
 FairyweedFresh_SpecialDurability2.CardStatName,Quality,クオリティ
 FairyweedFresh_CardInteractions[0].ActionName,Soak,浸す
-FirerootCutFresh_CardName,Cut Fireroot,ファイヤールートを切る
+FirerootCutFresh_CardName,Cut Fireroot,カットしたファイヤールート
 FirerootCutFresh_CardDescription,"Increases body temperature, boosts immune system, stamina and alertness. Slightly toxic.\n\nCan be dried to enhance its effects.",体温、免疫力、スタミナ、注意力を向上する。少し有害\n\n乾燥させたら効果が強化される。
 FirerootCutFresh_CardHelpSection,"<b>Found:</b> Less Hydrated Areas.\n\n<b>Growth Needs:</b> Mid Acidity, Low to Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Meal Enhancer, Immune System Booster, Stimulant, raises  Body Temperature, induces Sobriety, Gastrointestinal Irritant, Insecticide.",<b>発見場所：</b> 湿度の低い場所。\n\n<b>成長に必要：</b> 酸度（中）、 肥沃度（中～高）、 水分（低～中）。\n\n<b>メリット：</b> 調味料、 免疫力アップ、 刺激物、 体温アップ、 浄化剤、 胃腸刺激物、殺虫剤。
 FirerootCutFresh_SpoilageTime.CardStatName,Spoilage,腐敗
@@ -15111,17 +15111,17 @@ Broom_UsageDurability.OnZero.ActionName,The Broom broke!,ほうきが壊れて�
 BroomQWR_CardInteractions[0].ActionName,Repair,修理する
 Broom_DismantleActions[0].ActionName,Train,練習する
 Broom_DismantleActions[1].ActionName,Dismantle,解体する
-ButcheringMatFilthy_CardName,Filthy Butchering Mat,
+ButcheringMatFilthy_CardName,Filthy Butchering Mat,汚れた解体マット
 ButcheringMatFilthy_CardDescription,"A filthy and stinky mat, ready to be discarded.",
-ButcheringMatItem_CardName,Butchering Mat,
-ButcheringMatItem_CardDescription,A mat that helps keep things clean while butchering.\n\nNeeds to be placed to work.,
+ButcheringMatItem_CardName,Butchering Mat,解体マット
+ButcheringMatItem_CardDescription,A mat that helps keep things clean while butchering.\n\nNeeds to be placed to work.,解体作業を清潔に保つためのマット。設置しないと使えない。
 ButcheringMatItem_SpoilageTime.CardStatName,Filthiness,汚さ
-ButcheringMatItem_SpoilageTime.OnFull.ActionDescription,Butchering Mat Filthy!,
-ButcheringMatItem_DismantleActions[0].ActionName,Place,置く
-ButcheringMat_CardName,Butchering Mat,
-ButcheringMat_CardDescription,A mat that helps keep things clean while butchering.,
+ButcheringMatItem_SpoilageTime.OnFull.ActionDescription,Butchering Mat Filthy!,解体マットが汚れた！
+ButcheringMatItem_DismantleActions[0].ActionName,Place,設置する
+ButcheringMat_CardName,Butchering Mat,解体マット
+ButcheringMat_CardDescription,A mat that helps keep things clean while butchering.,解体作業を清潔に保つためのマット。
 ButcheringMat_SpoilageTime.CardStatName,Filthiness,汚さ
-ButcheringMat_SpoilageTime.OnFull.ActionDescription,Butchering Mat Filthy!,
+ButcheringMat_SpoilageTime.OnFull.ActionDescription,Butchering Mat Filthy!,解体マットが汚れた！
 ButcheringMatLocation_DismantleActions[0].ActionName,Pick Up,取る
 CandleOff_CardName,Candle,蝋燭
 CandleOff_CardDescription,A portable source of light.,持ち運びできる光。
@@ -18812,18 +18812,18 @@ Trapper_BigGameTraps_Sub1_Wolf_QuestTitle,Wolf,狼
 Trapper_BigGameTraps_Sub2_Doe_QuestTitle,Doe,雌鹿
 Trapper_BigGameTraps_Sub3_Stag_QuestTitle,Stag,雄鹿
 Trapper_BigGameTraps_Sub4_Boar_QuestTitle,Boar,イノシシ
-Trapper_ButcheringTools_Completed_ObjectiveDescription,Butchering Tools,
+Trapper_ButcheringTools_Completed_ObjectiveDescription,Butchering Tools,屠殺道具
 Trapper_ButcheringTools_Completed_OnCompleteActions[0].ActionName,Completed,完了
-Trapper_ButcheringTools_Completed_Event_CardName,Butchering Tools,
+Trapper_ButcheringTools_Completed_Event_CardName,Butchering Tools,屠殺道具
 Trapper_ButcheringTools_Completed_Event_DismantleActions[0].ActionName,Continue,続ける
 Trapper_ButcheringTools_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
-Trapper_ButcheringTools_Main_QuestTitle,Butchering Tools,
-Trapper_ButcheringTools_Obj1_ButcheringTools_ObjectiveDescription,Butchering Mat,
-Trapper_ButcheringTools_Obj2_ButcheringKnife_ObjectiveDescription,Butchering Knife,
-Trapper_ButcheringTools_Obj3_MeatHook_ObjectiveDescription,Meat Hook,
-Trapper_ButcheringTools_Sub1_ButcheringTools_QuestTitle,Butchering Mat,
-Trapper_ButcheringTools_Sub2_ButcheringKnife_QuestTitle,Butchering Knife,
-Trapper_ButcheringTools_Sub3_MeatHook_QuestTitle,Meat Hook,
+Trapper_ButcheringTools_Main_QuestTitle,Butchering Tools,屠殺道具
+Trapper_ButcheringTools_Obj1_ButcheringTools_ObjectiveDescription,Butchering Mat,解体マット
+Trapper_ButcheringTools_Obj2_ButcheringKnife_ObjectiveDescription,Butchering Knife,肉切り包丁
+Trapper_ButcheringTools_Obj3_MeatHook_ObjectiveDescription,Meat Hook,ミートフック
+Trapper_ButcheringTools_Sub1_ButcheringTools_QuestTitle,Butchering Mat,解体マット
+Trapper_ButcheringTools_Sub2_ButcheringKnife_QuestTitle,Butchering Knife,肉切り包丁
+Trapper_ButcheringTools_Sub3_MeatHook_QuestTitle,Meat Hook,ミートフック
 Trapper_SkinningTools_Completed_ObjectiveDescription,Skinning Tools,
 Trapper_SkinningTools_Completed_OnCompleteActions[0].ActionName,Completed,完了
 Trapper_SkinningTools_Completed_Event_CardName,Skinning Tools,
