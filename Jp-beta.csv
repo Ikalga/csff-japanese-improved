@@ -20966,14 +20966,14 @@ HandDamage_GameName,Hand Damage,手のダメージ
 HandDamage_Description,Caused by working with your hands. Can be neutralized with callouses or handwear.,手を使う作業が原因。手のタコや手袋などで防げる。
 HandDamage_Statuses[0].GameName,Moderate Hand Damage,手が痛い
 HandDamage_Statuses[1].GameName,Severe Hand Damage,手が痛すぎる
-MosquitoBitesQWE_GameName,Mosquito Bites,
-MosquitoBitesQWE_Description,Caused by spending time in areas with mosquitoes. Can be neutralized by covering your body or using bog myrtle.\n\nCan increase infection risk and get you swamp fever.,
-MosquitoBitesQWE_Statuses[0].GameName,Mosquito Bites,
+MosquitoBitesQWE_GameName,Mosquito Bites,虫刺され
+MosquitoBitesQWE_Description,Caused by spending time in areas with mosquitoes. Can be neutralized by covering your body or using bog myrtle.\n\nCan increase infection risk and get you swamp fever.,蚊の多い場所にいることによって引き起こされる。体を覆うか、ヤチヤナギを使えば無効化できる。\n\n感染リスクが高まり、沼地熱の原因となる。
+MosquitoBitesQWE_Statuses[0].GameName,Mosquito Bites,虫刺され
 MosquitoBitesQWE_Statuses[0].Description,Itches...,痒い・・・
-MosquitoBitesQWE_Statuses[1].GameName,Severe Mosquito Bites,
-MosquitoBitesQWE_Statuses[1].Description,I'm covered in mosquito bites. They're eating me alive.,
-MosquitoBitesQWE_Statuses[2].GameName,Severe Mosquito Bites,
-MosquitoBitesQWE_Statuses[2].Description,I'm covered in mosquito bites. They're eating me alive.,
+MosquitoBitesQWE_Statuses[1].GameName,Severe Mosquito Bites,ひどい虫刺され
+MosquitoBitesQWE_Statuses[1].Description,I'm covered in mosquito bites. They're eating me alive.,全身が虫刺されで埋め尽くされている。生きながら食われている！
+MosquitoBitesQWE_Statuses[2].GameName,Severe Mosquito Bites,ひどい虫刺され
+MosquitoBitesQWE_Statuses[2].Description,I'm covered in mosquito bites. They're eating me alive.,全身が虫刺されで埋め尽くされている。生きながら食われている！
 SkinHumidity_GameName,Skin Humidity,肌の湿度
 SkinHumidity_Statuses[0].GameName,Hydrated Skin,健康肌
 SkinHumidity_Statuses[1].GameName,Dry Skin,乾燥肌
@@ -21323,7 +21323,7 @@ GpTag_FurLeatherMedium_TabName,Medium Pelt,毛皮（中）
 GpTag_FurLeatherScraps_TabName,Pelt Scraps,毛皮の端切れ
 GpTag_FurLeatherSmall_TabName,Small Pelt,毛皮（小）
 GpTag_FurLeatherVeryLarge_TabName,Very Large Pelt,毛皮（特大）
-GpTag_Hide_TabName,Hide,皮膚
+GpTag_Hide_TabName,Hide,皮
 GpTag_SkinCuredLarge_TabName,Large Cured Skin,加工された皮（大）
 GpTag_SkinCuredMedium_TabName,Medium Cured Skin,加工された皮（中）
 GpTag_SkinCuredScraps_TabName,Cured Skin Scraps,加工された皮の端切れ
@@ -21724,31 +21724,31 @@ Light_Statuses[2].GameName,Light,明るい
 Light_Statuses[3].GameName,Strong Light,眩しい
 Light_NotEnoughText,It's too dark for this action...,このアクションをするには暗すぎる・・・
 Light_TooMuchText,There's too much light for this action...,このアクションをするには明るすぎる・・・
-Moonlight_GameName,Moonlight,
-MoonPhase_GameName,Moon Phase,
-MoonPhase_Statuses[3].GameName,Full Moon,
+Moonlight_GameName,Moonlight,月明かり
+MoonPhase_GameName,Moon Phase,月齢
+MoonPhase_Statuses[3].GameName,Full Moon,満月
 MoonPhase_NotEnoughText,Wrong Moon Phase,
 MoonPhase_TooMuchText,Wrong Moon Phase,
 MoonShape_NotEnoughText,Not enough moonlight,
 MoonShape_TooMuchText,Not enough moonlight,
-MoonShapeVisible_GameName,Moon Phase,
+MoonShapeVisible_GameName,Moon Phase,月齢
 MoonShapeVisible_Description,"Shows the current phase of the moon. Fuller moons provide more moonlight and strengthen moon rituals.\n\nThe new moon is the weakest phase. It gives way to the waxing crescent, then the waxing gibbous, and finally the full moon.\nThe full moon is the strongest phase. It is followed by the waning gibbous, then the waning crescent, before returning to the new moon.",
-MoonShapeVisible_Statuses[0].GameName,New Moon,
-MoonShapeVisible_Statuses[1].GameName,Waxing Crescent,
-MoonShapeVisible_Statuses[2].GameName,Waxing Gibbous,
-MoonShapeVisible_Statuses[3].GameName,Full Moon,
-MoonShapeVisible_Statuses[4].GameName,Waning Gibbous,
-MoonShapeVisible_Statuses[5].GameName,Waning Crescent,
+MoonShapeVisible_Statuses[0].GameName,New Moon,新月
+MoonShapeVisible_Statuses[1].GameName,Waxing Crescent,三日月
+MoonShapeVisible_Statuses[2].GameName,Waxing Gibbous,十三夜月
+MoonShapeVisible_Statuses[3].GameName,Full Moon,満月
+MoonShapeVisible_Statuses[4].GameName,Waning Gibbous,更待月
+MoonShapeVisible_Statuses[5].GameName,Waning Crescent,有明月
 MoonShapeVisible_NotEnoughText,Not enough moonlight,
 MoonShapeVisible_TooMuchText,Not enough moonlight,
-MosquitosQWE_GameName,Mosquitoes,
-MosquitosQWE_Description,The amount of mosquitoes in an area. Increases mosquito bites and can trigger swamp fever.,
-MosquitosQWE_Statuses[0].GameName,Mosquitoes,
-MosquitosQWE_Statuses[1].GameName,Lots of Mosquitoes,
-SeasonCounter_Spring_NotEnoughText,Only available in Spring.,
-SeasonCounter_Spring_TooMuchText,Only available in Spring.,
-SeasonCounter_Summer_NotEnoughText*,Only in Summer,
-SeasonCounter_Summer_TooMuchText*,Only in Summer,
+MosquitosQWE_GameName,Mosquitoes,蚊
+MosquitosQWE_Description,The amount of mosquitoes in an area. Increases mosquito bites and can trigger swamp fever.,エリアにいる蚊の数。蚊に刺される確率が上がり、沼地熱の原因にもなる。
+MosquitosQWE_Statuses[0].GameName,Mosquitoes,蚊が多い
+MosquitosQWE_Statuses[1].GameName,Lots of Mosquitoes,蚊が大量にいる
+SeasonCounter_Spring_NotEnoughText,Only available in Spring.,春にしか利用できない
+SeasonCounter_Spring_TooMuchText,Only available in Spring.,春にしか利用できない
+SeasonCounter_Summer_NotEnoughText*,Only in Summer,夏にしか利用できない
+SeasonCounter_Summer_TooMuchText*,Only in Summer,夏にしか利用できない
 Snow_NotEnoughText,Not Enough Snow,雪が足りない
 SnowVisible_GameName,Snow,雪
 SnowVisible_Description,Can make travelling difficult if it gets too deep.,深すぎると移動が困難になる
