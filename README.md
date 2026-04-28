@@ -7,7 +7,7 @@
 参考: 公式版の日本語翻訳率は約 57% です。  
 (本体のバージョン: EA_0.60c)
 
-Jp-beta.csv はバージョン EA_beta_0.62e に対応しています。
+Jp-beta.csv はバージョン EA_beta_0.63b に対応しています。
 
 ---
 
@@ -31,6 +31,10 @@ Nexus Mods で公開されている [Mod Core](https://www.nexusmods.com/cardsur
 2. `(ゲームインストールフォルダ)/BepInEx/plugins/` の中に `csff-japanese-improved/Localization/` フォルダを作成する
 3. ダウンロードした `Jp.csv` を上記フォルダに配置する
 4. ゲームを起動する
+
+## 連絡先等
+対応状況等は以下blueskyでも発信しています。
+https://bsky.app/profile/ikalga.bsky.social
 
 ## Q&A
 

@@ -890,10 +890,10 @@ Bp_Cast_BlankArrowBroadheadQQQ_CardDescription,Metal arrow heads.,
 Bp_Cast_BlankArrowBroadheadQQQ_UnlockConditionsDesc,More Archery Needed,弓術のスキルが足りない
 Bp_Cast_BlankArrowHeadsQWE_CardName,Cast Arrow Heads,
 Bp_Cast_BlankArrowHeadsQWE_CardDescription,Metal arrow heads.,
-Bp_Cast_BlankArrowHeadsQWE_UnlockConditionsDesc,Small Crucible Needed,
+Bp_Cast_BlankArrowHeadsQWE_UnlockConditionsDesc,Small Crucible Needed,小さな坩堝が必要
 Bp_BlankAxeHeadCastQWE_CardName,Cast Axe Head,
 Bp_BlankAxeHeadCastQWE_CardDescription,A metal axe head.,
-Bp_BlankAxeHeadCastQWE_UnlockConditionsDesc,Large Crucible Needed,
+Bp_BlankAxeHeadCastQWE_UnlockConditionsDesc,Large Crucible Needed,大きな坩堝が必要
 Bp_Cast_BlankButcheringKnifeBlade_CardName,Cast Butchering Knife Blade,
 Bp_Cast_BlankButcheringKnifeBlade_CardDescription,A metal butchering knife blade.,
 Bp_Cast_BlankButcheringKnifeBlade_UnlockConditionsDesc,More Smithing or Butchering Needed,
@@ -911,7 +911,7 @@ Bp_Cast_BlankHuntingSpearHeadQQQ_CardDescription,A metal spearhead.,
 Bp_Cast_BlankHuntingSpearHeadQQQ_UnlockConditionsDesc,Regular Spearhead Cast Needed,
 Bp_Cast_BlankKnifeBladeQWE_CardName,Cast Knife Blade,
 Bp_Cast_BlankKnifeBladeQWE_CardDescription,A metal knife blade.,
-Bp_Cast_BlankKnifeBladeQWE_UnlockConditionsDesc,Small Crucible Needed,
+Bp_Cast_BlankKnifeBladeQWE_UnlockConditionsDesc,Small Crucible Needed,小さな坩堝が必要
 Bp_Cast_BlankMeatHook_CardName,Cast Meat Hook,
 Bp_Cast_BlankMeatHook_CardDescription,A metal meat hook.,
 Bp_Cast_BlankMeatHook_UnlockConditionsDesc,More Smithing or Butchering Needed,
@@ -920,7 +920,7 @@ Bp_Cast_BlankScytheBlade_CardDescription,A metal scythe blade.,
 Bp_Cast_BlankScytheBlade_UnlockConditionsDesc,More Smithing or Herbalism Needed,
 Bp_Cast_BlankShovelHeadQWE_CardName,Cast Shovel Head,
 Bp_Cast_BlankShovelHeadQWE_CardDescription,A metal shovel head.,
-Bp_Cast_BlankShovelHeadQWE_UnlockConditionsDesc,Large Crucible Needed,
+Bp_Cast_BlankShovelHeadQWE_UnlockConditionsDesc,Large Crucible Needed,大きな坩堝が必要
 Bp_Cast_BlankSickleBlade_CardName,Cast Sickle Blade,
 Bp_Cast_BlankSickleBlade_CardDescription,A metal sickle blade.,
 Bp_Cast_BlankSickleBlade_UnlockConditionsDesc,More Smithing or Herbalism Needed,
@@ -929,7 +929,7 @@ Bp_Cast_BlankSkinningKnifeBlade_CardDescription,A metal skinning knife blade.,
 Bp_Cast_BlankSkinningKnifeBlade_UnlockConditionsDesc,More Smithing or Leatherworking Needed,
 Bp_Cast_BlankSpearHeadQWE_CardName,Cast Spear Head,
 Bp_Cast_BlankSpearHeadQWE_CardDescription,A metal spear head.,
-Bp_Cast_BlankSpearHeadQWE_UnlockConditionsDesc,Small Crucible Needed,
+Bp_Cast_BlankSpearHeadQWE_UnlockConditionsDesc,Small Crucible Needed,小さな坩堝が必要
 Bp_Cast_BlankSpoonBit_CardName,Cast Spoon Bit,
 Bp_Cast_BlankSpoonBit_CardDescription,A metal spoon bit.,
 Bp_Cast_BlankSpoonBit_UnlockConditionsDesc,More Smithing or Woodworking Needed,
@@ -1065,7 +1065,7 @@ Bp_Smithed_TwistedRing_Metal_CardName,Metal Twisted Ring,
 Bp_Smithed_TwistedRing_Metal_CardDescription,A finger ornament.\n\n\nIncreases wellbeing.,
 Bp_Smithed_TwistedRing_Metal_UnlockConditionsDesc,Metal Nugget Needed,
 Bp_Whetstone_CardName,Whetstone,
-Bp_Whetstone_UnlockConditionsDesc,Metal Blank Needed,
+Bp_Whetstone_UnlockConditionsDesc,Metal Blank Needed,地金が必要
 Bp_Smithed_Wire_Metal_CardName,Metal Wire,
 Bp_Smithed_Wire_Metal_CardDescription,A stretched strip of metal.\n\n\nCan be used for jewelry and multiple crafts.,
 Bp_Smithed_Wire_Metal_UnlockConditionsDesc,Metal Nugget Needed,
@@ -1138,17 +1138,17 @@ Bp_ClothTrousersQWE_CardName,Cloth Trousers,布のズボン
 Bp_ClothTrousersQWE_CardDescription,Should protect me a bit from bug bites and the sun.,虫や日差しから守ってくれる。
 Bp_ClothTrousersQWE_UnlockConditionsDesc,Cloth Needed,布が足りない
 Bp_ClothUnderwearQWE_CardName,Cloth Underwear,布の下着
-Bp_ClothUnderwearQWE_CardDescription,"Provides protection, insulation and wellbeing.",
+Bp_ClothUnderwearQWE_CardDescription,"Provides protection, insulation and wellbeing.",体を温め、身を守ってくれる。幸福度も向上する。
 Bp_ClothUnderwearQWE_UnlockConditionsDesc,Cloth Needed,布が足りない
 Bp_CookingPot_CardName,Cooking Pot,料理ポット
 Bp_CookingPot_CardDescription,A cooking pot for preparing more advanced meals. Needs to be fired in a Kiln.,高度な料理を作るための料理ポット。窯で焼く必要がある。
 Bp_CookingPot_UnlockConditionsDesc,Oven Needed,オーブンが必要
-Bp_CrucibleLargeQWE_CardName,Large Crucible,
-Bp_CrucibleLargeQWE_CardDescription,A clay container for alloying and casting metals.,
-Bp_CrucibleLargeQWE_UnlockConditionsDesc,Metal Blank Needed,
-Bp_CrucibleSmallQWE_CardName,Small Crucible,
-Bp_CrucibleSmallQWE_CardDescription,A clay container for alloying and casting metals.,
-Bp_CrucibleSmallQWE_UnlockConditionsDesc,Metal Blank Needed,
+Bp_CrucibleLargeQWE_CardName,Large Crucible,大きな坩堝
+Bp_CrucibleLargeQWE_CardDescription,A clay container for alloying and casting metals.,金属を溶かしたり合金を作ったりするための粘土製の容れ物。
+Bp_CrucibleLargeQWE_UnlockConditionsDesc,Metal Blank Needed,地金が必要
+Bp_CrucibleSmallQWE_CardName,Small Crucible,小さな坩堝
+Bp_CrucibleSmallQWE_CardDescription,A clay container for alloying and casting metals.,金属を溶かしたり合金を作ったりするための粘土製の容れ物。
+Bp_CrucibleSmallQWE_UnlockConditionsDesc,Metal Blank Needed,地金が必要
 Bp_DeadfallTrap_CardName,Deadfall Trap,落石トラップ
 Bp_DeadfallTrap_CardDescription,Useful for catching small prey. Needs bait to work.,小さい動物を捕まえる時に役立つ。餌が必要。
 Bp_DeadfallTrap_UnlockConditionsDesc,Heavy Stone Needed,重い石が必要
@@ -3415,9 +3415,9 @@ WindStep_ActionFailureLog.LogText,your {1}'s power was not strong enough!,{1}の
 CabinConstructionDoorEntranceMainCabin_CardName,Cabin,小屋
 CabinConstructionDoorEntranceMainCabin_DismantleActions[0].ActionName,Enter,入る
 CabinConstructionDoorEntranceMainCabin_DismantleActions[0].FadeMessage,Entering the Cabin...,小屋の中へ移動中・・・
-CabinConstructionDoorExitMain_CardName,Exit,
+CabinConstructionDoorExitMain_CardName,Exit,出口
 CabinConstructionDoorExitMain_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
-CabinConstructionDoorExitMain_DismantleActions[0].ActionName,Exit,
+CabinConstructionDoorExitMain_DismantleActions[0].ActionName,Exit,出る
 CabinConstructionDoorExitMain_DismantleActions[0].FadeMessage,Exiting the Cabin...,山小屋を退出中・・・
 CabinConstructionLocationAttic_CardName,Attic,
 CabinConstructionLocationAttic_SpoilageTime.CardStatName,Filthiness,汚さ
@@ -3562,29 +3562,29 @@ Imp_MudHutConstructionLocationRoomWest_CardName,New Room (West),新しい部屋�
 Imp_MudHutConstructionLocationRoomWest_CardDescription,Adds an additional mud hut room.,小屋の部屋を増やす。
 MineConstructionDoorConnectionEast_CardName,Mine (East),
 MineConstructionDoorConnectionEast_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorConnectionEast_DismantleActions[0].FadeMessage,Entering the Mine...,
+MineConstructionDoorConnectionEast_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
 MineConstructionDoorConnectionNorth_CardName,Mine (North),
 MineConstructionDoorConnectionNorth_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorConnectionNorth_DismantleActions[0].FadeMessage,Entering the Mine...,
+MineConstructionDoorConnectionNorth_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
 MineConstructionDoorConnectionSouth_CardName,Mine (South),
 MineConstructionDoorConnectionSouth_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorConnectionSouth_DismantleActions[0].FadeMessage,Entering the Mine...,
+MineConstructionDoorConnectionSouth_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
 MineConstructionDoorConnectionWest_CardName,Mine (West),
 MineConstructionDoorConnectionWest_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorConnectionWest_DismantleActions[0].FadeMessage,Entering the Mine...,
+MineConstructionDoorConnectionWest_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
 MineConstructionDoorEntranceMainCopperMine_CardName,Copper Mine,銅鉱山
 MineConstructionDoorEntranceMainCopperMine_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorEntranceMainCopperMine_DismantleActions[0].FadeMessage,Entering the Mine...,
+MineConstructionDoorEntranceMainCopperMine_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
 MineConstructionDoorEntranceMainFlintMine_CardName,Flint Mine,火打石鉱山
 MineConstructionDoorEntranceMainFlintMine_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorEntranceMainFlintMine_DismantleActions[0].FadeMessage,Entering the Mine...,
+MineConstructionDoorEntranceMainFlintMine_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
 MineConstructionDoorEntranceMainWitchstoneMine_CardName,Witchstone Mine,ウィッチストーン鉱山
 MineConstructionDoorEntranceMainWitchstoneMine_DismantleActions[0].ActionName,Enter,入る
-MineConstructionDoorEntranceMainWitchstoneMine_DismantleActions[0].FadeMessage,Entering the Mine...,
-MineConstructionDoorExitMain_CardName,Exit,
+MineConstructionDoorEntranceMainWitchstoneMine_DismantleActions[0].FadeMessage,Entering the Mine...,鉱山の中へ移動中・・・
+MineConstructionDoorExitMain_CardName,Exit,出口
 MineConstructionDoorExitMain_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
-MineConstructionDoorExitMain_DismantleActions[0].ActionName,Exit,
-MineConstructionDoorExitMain_DismantleActions[0].FadeMessage,Exiting the Mine...,血抜きする
+MineConstructionDoorExitMain_DismantleActions[0].ActionName,Exit,出る
+MineConstructionDoorExitMain_DismantleActions[0].FadeMessage,Exiting the Mine...,鉱山を退出中・・・
 MineConstructionLocationCopperMine_CardName,Copper Mine,銅鉱山
 MineConstructionLocationCopperMine_SpoilageTime.CardStatName,Filthiness,汚さ
 MineConstructionLocationCopperMine_FuelCapacity.CardStatName,Flood,洪水
@@ -3667,7 +3667,7 @@ MudHutConstructionDoorExitEast_CardName,Exit (East),出口（東）
 MudHutConstructionDoorExitEast_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
 MudHutConstructionDoorExitEast_DismantleActions[0].ActionName,Exit,出る
 MudHutConstructionDoorExitEast_DismantleActions[0].FadeMessage,Exiting the Hut...,小屋の外へ移動中・・・
-MudHutConstructionDoorExitMain_CardName,Exit,出る
+MudHutConstructionDoorExitMain_CardName,Exit,出口
 MudHutConstructionDoorExitMain_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
 MudHutConstructionDoorExitMain_DismantleActions[0].ActionName,Exit,出る
 MudHutConstructionDoorExitMain_DismantleActions[0].FadeMessage,Exiting the Hut...,小屋の外へ移動中・・・
@@ -3722,10 +3722,10 @@ MudHutConstructionStartingPointEnclosure_SpoilageTime.CardStatName,Filth,汚れ
 MudHutConstructionStartingPointEnclosure_FuelCapacity.CardStatName,Flood,洪水
 MudHutConstructionStartingPointEnclosure_SpecialDurability2.CardStatName,Overgrowth,茂み
 MudHutConstructionStartingPointEnclosure_SpecialDurability3.CardStatName,Foraging,資源集め
-MudHutConstructionStartingPointEnclosure_CardInteractions[0].ActionName,Throw Inside,
-MudHutConstructionStartingPointEnclosure_CardInteractions[1].ActionName,Throw Inside,
-MudHutConstructionStartingPointEnclosure_CardInteractions[2].ActionName,Throw Inside,
-MudHutConstructionStartingPointEnclosure_CardInteractions[3].ActionName,Throw Inside,
+MudHutConstructionStartingPointEnclosure_CardInteractions[0].ActionName,Throw Inside,中に投げる
+MudHutConstructionStartingPointEnclosure_CardInteractions[1].ActionName,Throw Inside,中に投げる
+MudHutConstructionStartingPointEnclosure_CardInteractions[2].ActionName,Throw Inside,中に投げる
+MudHutConstructionStartingPointEnclosure_CardInteractions[3].ActionName,Throw Inside,中に投げる
 MudHutConstructionStartingPointEnclosure_CardInteractions[4].ActionName,Shovel Snow,雪かきする
 MudHutConstructionStartingPointEnclosure_CardInteractions[5].ActionName,Shovel Snow,雪かきする
 MudHutConstructionStartingPointEnclosure_CardInteractions[6].ActionName,Clean,掃除する
@@ -3777,7 +3777,7 @@ Cabin_CardInteractions[0].ActionName,Clean,掃除する
 CabinEntrance_CardName,Cabin,小屋
 CabinEntrance_DismantleActions[0].ActionName,Enter,入る
 CabinEntrance_DismantleActions[0].FadeMessage,Entering the Cabin...,小屋の中へ移動中・・・
-CabinExit_CardName,Exit,出る
+CabinExit_CardName,Exit,出口
 CabinExit_DismantleActions[0].ActionName,Exit,出る
 CabinExit_DismantleActions[0].FadeMessage,Exiting the Cabin...,山小屋を退出中・・・
 CellarEntrance_CardName,Cellar,セラー
@@ -3799,7 +3799,7 @@ Coop_CardInteractions[0].ActionName,Clean,掃除する
 CoopEntrance_CardName,Coop,鳥小屋
 CoopEntrance_DismantleActions[0].ActionName,Enter,入る
 CoopEntrance_DismantleActions[0].FadeMessage,Entering the coop...,鳥小屋の中へ移動中・・・
-CoopExit_CardName,Exit,出る
+CoopExit_CardName,Exit,出口
 CoopExit_DismantleActions[0].ActionName,Exit,出る
 CoopExit_DismantleActions[0].FadeMessage,Exiting the Coop...,鳥小屋を退出中・・・
 Enclosure_CardName,Enclosure,囲い
@@ -3811,7 +3811,7 @@ EnclosureEntrance_DismantleActions[0].ActionName,Enter,入る
 EnclosureEntrance_DismantleActions[0].FadeMessage,Entering the Hut...,小屋の中へ移動中・・・
 EnclosureExit_CardName,Exit,出口
 EnclosureExit_CardDescription,Out of the Enclosure,囲いの外へ
-EnclosureExit_DismantleActions[0].ActionName,Exit,出口
+EnclosureExit_DismantleActions[0].ActionName,Exit,出る
 EnclosureExit_DismantleActions[0].FadeMessage,Exiting the Hut...,小屋の外へ移動中・・・
 Env_Cabin_CardName,Cabin,小屋
 Env_Cellar_CardName,Cellar,セラー
@@ -3877,7 +3877,7 @@ MudHutEnclosureEntrance_DismantleActions[0].FadeMessage,Entering the Hut...,小�
 MudHutEnclosureExit_CardName,Mud Hut Enclosure Exit,泥小屋の囲いの出口
 MudHutEnclosureExit_DismantleActions[0].ActionName,Exit,出る
 MudHutEnclosureExit_DismantleActions[0].FadeMessage,Exiting the Enclosure...,囲いを退出中・・・
-MudHutExit_CardName,Exit,出る
+MudHutExit_CardName,Exit,出口
 MudHutExit_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
 MudHutExit_DismantleActions[0].ActionName,Exit,出る
 MudHutExit_DismantleActions[0].FadeMessage,Exiting the Hut...,小屋の外へ移動中・・・
@@ -3894,7 +3894,7 @@ MudHutExpansionLeft_OnStatsChangeActions[0].ActionName,River Flooded,川の氾�
 MudHutExpansionLeftEntrance_CardName,Enter Left Room,左の部屋に入る
 MudHutExpansionLeftEntrance_DismantleActions[0].ActionName,Enter,入る
 MudHutExpansionLeftEntrance_DismantleActions[0].FadeMessage,Entering the Room...,部屋の中へ移動中・・・
-MudHutExpansionLeftExit_CardName,Exit,出る
+MudHutExpansionLeftExit_CardName,Exit,出口
 MudHutExpansionLeftExit_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
 MudHutExpansionLeftExit_DismantleActions[0].ActionName,Exit,出る
 MudHutExpansionLeftExit_DismantleActions[0].FadeMessage,Exiting the Room...,部屋を退出中・・・
@@ -3911,7 +3911,7 @@ MudHutExpansionRight_OnStatsChangeActions[0].ActionName,River Flooded,川の氾�
 MudHutExpansionRightEntrance_CardName,Enter Right Room,右の部屋に入る
 MudHutExpansionRightEntrance_DismantleActions[0].ActionName,Enter,入る
 MudHutExpansionRightEntrance_DismantleActions[0].FadeMessage,Entering the Room...,部屋の中へ移動中・・・
-MudHutExpansionRightExit_CardName,Exit,出る
+MudHutExpansionRightExit_CardName,Exit,出口
 MudHutExpansionRightExit_SpecialDurability2.CardStatName,Flood Damage,洪水の被害
 MudHutExpansionRightExit_DismantleActions[0].ActionName,Exit,出る
 MudHutExpansionRightExit_DismantleActions[0].FadeMessage,Exiting the Room,部屋を出ている
@@ -4618,7 +4618,7 @@ DeathCrack_EntranceTunnelQWR_SpoilageTime.CardStatName,Filthiness,汚さ
 DeathCrack_EntranceTunnel_CardInteractions[0].ActionName,Clean,掃除する
 DeathCrack_EntranceTunnelQWR_DismantleActions[0].ActionName,East,東
 DeathCrack_EntranceTunnelQWR_DismantleActions[0].FadeMessage,Going East...,東へ移動中・・・
-DeathCrack_EntranceTunnelQWR_DismantleActions[1].ActionName,Exit,
+DeathCrack_EntranceTunnelQWR_DismantleActions[1].ActionName,Exit,出る
 DeathCrack_EntranceTunnelQWR_DismantleActions[1].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
 DeathCrack_OuterChamberQWR_CardName,Outer Chamber,
 DeathCrack_OuterChamberQWR_SpoilageTime.CardStatName,Filthiness,汚さ
@@ -6700,8 +6700,8 @@ Path_FmTheShaftFromRockyGrove_DismantleActions[0].FadeMessage,Climbing down into
 Path_RockyGroveFromFmTheShaft_CardName,Rocky Grove,岩だらけの林
 Path_RockyGroveFromFmTheShaft_DismantleActions[0].ActionName,Climb Up,登る
 Path_RockyGroveFromFmTheShaft_DismantleActions[0].FadeMessage,Climbing up into the Rocky Grove,岩だらけの林へ登る
-Path_OldHollowFromGreatCave_CardName,Exit,
-Path_OldHollowFromGreatCave_DismantleActions[0].ActionName,Exit,
+Path_OldHollowFromGreatCave_CardName,Exit,出口
+Path_OldHollowFromGreatCave_DismantleActions[0].ActionName,Exit,出る
 Path_OldHollowFromGreatCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
 Path_GreatCaveFromOldHollow_CardName,Great Cave,
 Path_GreatCaveFromOldHollow_DismantleActions[0].ActionName,Enter the Cave,洞窟に入る
@@ -6728,10 +6728,10 @@ Path_CaveFromStillHollow_CardName,Still Cave,
 Path_CaveFromStillHollow_DismantleActions[0].ActionName,Enter the Cave,洞窟に入る
 Path_CaveFromStillHollow_DismantleActions[0].FadeMessage,Entering the Cave...,洞窟の中へ移動中・・・
 Path_DampHollowFromCave_CardName,Narrow Tunnel,
-Path_DampHollowFromCave_DismantleActions[0].ActionName,Exit,
+Path_DampHollowFromCave_DismantleActions[0].ActionName,Exit,出る
 Path_DampHollowFromCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
-Path_FangvaleFromWolfCave_CardName,Exit,
-Path_FangvaleFromWolfCave_DismantleActions[0].ActionName,Exit,
+Path_FangvaleFromWolfCave_CardName,Exit,出口
+Path_FangvaleFromWolfCave_DismantleActions[0].ActionName,Exit,出る
 Path_FangvaleFromWolfCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
 Path_GreenfallsFromWaterfallCave_CardName,Exit,出口
 Path_GreenfallsFromWaterfallCave_CardInteractions[0].ActionName,Wet,
@@ -6739,23 +6739,23 @@ Path_GreenfallsFromWaterfallCave_CardInteractions[1].ActionName,Fill,
 Path_GreenfallsFromWaterfallCave_DismantleActions[1].ActionName,Take a Shower,シャワーを浴びる
 Path_GreenfallsFromWaterfallCave_DismantleActions[0].ActionName,Exit,出る
 Path_GreenfallsFromWaterfallCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
-Path_OldHollowFromCave_CardName,Exit,
-Path_OldHollowFromCave_DismantleActions[0].ActionName,Exit,
+Path_OldHollowFromCave_CardName,Exit,出口
+Path_OldHollowFromCave_DismantleActions[0].ActionName,Exit,出る
 Path_OldHollowFromCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
-Path_PineSlopesFromCave_CardName,Exit,
-Path_PineSlopesFromCave_DismantleActions[0].ActionName,Exit,
+Path_PineSlopesFromCave_CardName,Exit,出口
+Path_PineSlopesFromCave_DismantleActions[0].ActionName,Exit,出る
 Path_PineSlopesFromCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
-Path_RiverPassFromCave_CardName,Exit,
-Path_RiverPassFromCave_DismantleActions[0].ActionName,Exit,
+Path_RiverPassFromCave_CardName,Exit,出口
+Path_RiverPassFromCave_DismantleActions[0].ActionName,Exit,出る
 Path_RiverPassFromCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
 Path_RockyPinesFromBearCave_CardName,Exit,出口
-Path_RockyPinesFromBearCave_DismantleActions[0].ActionName,Exit,出口
+Path_RockyPinesFromBearCave_DismantleActions[0].ActionName,Exit,出る
 Path_RockyPinesFromBearCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
-Path_ShadyThicketFromCave_CardName,Exit,
-Path_ShadyThicketFromCave_DismantleActions[0].ActionName,Exit,
+Path_ShadyThicketFromCave_CardName,Exit,出口
+Path_ShadyThicketFromCave_DismantleActions[0].ActionName,Exit,出る
 Path_ShadyThicketFromCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
-Path_StillHollowFromCave_CardName,Exit,
-Path_StillHollowFromCave_DismantleActions[0].ActionName,Exit,
+Path_StillHollowFromCave_CardName,Exit,出口
+Path_StillHollowFromCave_DismantleActions[0].ActionName,Exit,出る
 Path_StillHollowFromCave_DismantleActions[0].FadeMessage,Exiting the Cave...,洞窟の外へ移動中・・・
 Path_WaterfallCavesFromGreenFallsHidden_CardName,Waterfall,滝
 Path_WaterfallCavesFromGreenFallsHidden_CardInteractions[0].ActionName,Wet,
@@ -8455,7 +8455,7 @@ WolfsbanePlantedDormant_DismantleActions[0].ActionName,Destroy,破壊する
 WolfsbanePlantedGrowing_CardName,Growing Wolfsbane,成長中のトリカブト
 WolfsbanePlantedGrowing_CardDescription,"Found in shady riverbanks; needs medium acidity, medium to high nutrients, and medium to high hydration.\n\nPoisonous plant ideal for weapon coatings. Gets more poisonous with time.",薄暗い川岸で見つけられる。酸度（中）、肥沃度（中～高）、水分（中～高）が必要。\n\n武器のコーティングに最適な有毒植物。時間経過で毒の効果が増加する。\n
 WolfsbanePlantedGrowing_CardHelpSection,"<b>Found:</b> Shady Bank. Greenfalls. \n\n<b>Growth Needs:</b> Mid Acidity, Mid to High Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Poison.",<b>発見場所：</b>薄暗い川岸、グリーンフォールズ。\n\n<b>成長に必要：</b>酸度（中）、肥沃度（中～高）、水分（中～高）。\n\n<b>メリット：</b>毒
-WolfsbanePlantedGrowing_FuelCapacity.CardStatName,Maturity,成長
+WolfsbanePlantedGrowing_FuelCapacity.CardStatName,Maturity,成熟
 WolfsbanePlantedGrowing_Progress.CardStatName,Growth,成長
 WolfsbanePlantedGrowing_SpecialDurability2.CardStatName,Health,健康度
 WolfsbanePlantedGrowing_SpecialDurability3.CardStatName,Mite Infestation,ダニの発生
@@ -8464,7 +8464,7 @@ WolfsbanePlantedGrowing_DismantleActions[0].ActionName,Destroy,破壊する
 WolfsbanePlantedMature_CardName,Wolfsbane,トリカブト
 WolfsbanePlantedMature_CardDescription,"Found in shady riverbanks; needs medium acidity, medium to high nutrients, and medium to high hydration.\n\nPoisonous plant ideal for weapon coatings. Gets more poisonous with time.",薄暗い川岸で見つけられる。酸度（中）、肥沃度（中～高）、水分（中～高）が必要。\n\n武器のコーティングに最適な有毒植物。時間経過で毒の効果が増加する。\n
 WolfsbanePlantedMature_CardHelpSection,"<b>Found:</b> Shady Bank. Greenfalls. \n\n<b>Growth Needs:</b> Mid Acidity, Mid to High Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Poison.",<b>発見場所：</b>薄暗い川岸、グリーンフォールズ。\n\n<b>成長に必要：</b>酸度（中）、肥沃度（中～高）、水分（中～高）。\n\n<b>メリット：</b>毒
-WolfsbanePlantedMature_FuelCapacity.CardStatName,Maturity,成長
+WolfsbanePlantedMature_FuelCapacity.CardStatName,Maturity,成熟
 WolfsbanePlantedMature_SpecialDurability2.CardStatName,Health,健康度
 WolfsbanePlantedMature_SpecialDurability3.CardStatName,Mite Infestation,ダニの発生
 WolfsbanePlantedMature_SpecialDurability4.CardStatName,Fungal Infection,菌の感染
@@ -9109,21 +9109,21 @@ CookingPotUnfired_CardName,Unfired Cooking Pot,焼いてないポット
 CookingPotUnfired_CardDescription,It needs to be fired in a Oven or a Kiln.,オーブンか窯で焼かないといけない。
 CookingPotUnfired_SpecialDurability1.CardStatName,Fired,焼いた
 CookingPotUnfired_SpecialDurability1.OnFull.ActionDescription,Cooking Pot fired.,ポットを焼いた
-CrucibleLargeQWE_CardName,Large Empty Crucible,
-CrucibleLargeQWE_CardDescription,A clay container for alloying and casting metals.,
-CrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
-CrucibleLargeUnfiredQWE_CardName,Large Unfired Crucible,
+CrucibleLargeQWE_CardName,Large Empty Crucible,空の大きな坩堝
+CrucibleLargeQWE_CardDescription,A clay container for alloying and casting metals.,金属を溶かしたり合金を作ったりするための粘土製の容れ物。
+CrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
+CrucibleLargeUnfiredQWE_CardName,Large Unfired Crucible,焼かれてない大きな坩堝
 CrucibleLargeUnfiredQWE_CardDescription,Needs to be fired in a kiln to become usable.,窯で焼かないと使えない。
 CrucibleLargeUnfiredQWE_SpecialDurability1.CardStatName,Fired,焼いた
-CrucibleLargeUnfiredQWE_SpecialDurability1.OnFull.ActionDescription,Large Crucible fired.,
+CrucibleLargeUnfiredQWE_SpecialDurability1.OnFull.ActionDescription,Large Crucible fired.,坩堝が焼けた。
 CrucibleLargeUnfiredQWE_SpecialDurability2.CardStatName,Quality,クオリティ
-CrucibleSmallQWE_CardName,Small Empty Crucible,
-CrucibleSmallQWE_CardDescription,A clay container for alloying and casting metals.,
-CrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
-CrucibleSmallUnfiredQWE_CardName,Small Unfired Crucible,
+CrucibleSmallQWE_CardName,Small Empty Crucible,空の小さな坩堝
+CrucibleSmallQWE_CardDescription,A clay container for alloying and casting metals.,金属を溶かしたり合金を作ったりするための粘土製の容れ物。
+CrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
+CrucibleSmallUnfiredQWE_CardName,Small Unfired Crucible,焼かれてない小さな坩堝
 CrucibleSmallUnfiredQWE_CardDescription,Needs to be fired in a kiln to become usable.,窯で焼かないと使えない。
 CrucibleSmallUnfiredQWE_SpecialDurability1.CardStatName,Fired,焼いた
-CrucibleSmallUnfiredQWE_SpecialDurability1.OnFull.ActionDescription,Small Crucible fired.,
+CrucibleSmallUnfiredQWE_SpecialDurability1.OnFull.ActionDescription,Small Crucible fired.,坩堝が焼けた。
 CrucibleSmallUnfiredQWE_SpecialDurability2.CardStatName,Quality,クオリティ
 FermentationBinUnfired_CardName,Unfired Fermentation Bin,焼いてない発酵箱
 FermentationBinUnfired_CardDescription,Needs to be fired in a kiln to become usable.,窯で焼かないと使えない。
@@ -9142,39 +9142,39 @@ LogBoomInactive_CardName,Inactive Log Boom,
 LogBoomInactive_CardDescription,Release to start catching logs and rafts drifting downriver.,
 LogBoomInactive_DismantleActions[0].ActionName,Release Log Boom,
 LogBoomInactive_DismantleActions[1].ActionName,Dismantle,解体する
-MoltenCrucibleLargeQWE_CardName,Large Molten Crucible,
-MoltenCrucibleLargeQWE_CardDescription,A clay container for alloying and casting metals.\n\nReady to be cast into a mold.,
+MoltenCrucibleLargeQWE_CardName,Large Molten Crucible,融けた大きな坩堝
+MoltenCrucibleLargeQWE_CardDescription,A clay container for alloying and casting metals.\n\nReady to be cast into a mold.,金属を溶かしたり合金を作ったりするための粘土製の容れ物。\n\n型に流し込む準備ができている。
 MoltenCrucibleLargeQWE_AlternateNames[0].Name,Molten Copper,
 MoltenCrucibleLargeQWE_AlternateNames[1].Name,Molten Ghost Bronze,
 MoltenCrucibleLargeQWE_AlternateNames[2].Name,Molten Tin,
 MoltenCrucibleLargeQWE_AlternateNames[3].Name,Molten Tin Bronze,
 MoltenCrucibleLargeQWE_AlternateNames[4].Name,Molten White Bronze,
-MoltenCrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+MoltenCrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 MoltenCrucibleLargeQWE_Progress.CardStatName,Smelted,
-MoltenCrucibleLargeQWE_Progress.OnZero.ActionDescription,Crucible solidified!,
+MoltenCrucibleLargeQWE_Progress.OnZero.ActionDescription,Crucible solidified!,坩堝の中身は固まった！
 MoltenCrucibleLargeQWE_SpecialDurability2.CardStatName,Metal Quality,
 MoltenCrucibleLargeQWE_SpecialDurability3.CardStatName,Quality,クオリティ
 MoltenCrucibleLargeQWE_SpecialDurability4.CardStatName,Metal Type,
 MoltenCrucibleLargeQWE_DismantleActions[0].ActionName,Empty,空っぽ
-MoltenCrucibleSmallQWE_CardName,Small Molten Crucible,
-MoltenCrucibleSmallQWE_CardDescription,A clay container for alloying and casting metals.\n\nReady to be cast into a mold.,
+MoltenCrucibleSmallQWE_CardName,Small Molten Crucible,融けた小さな坩堝
+MoltenCrucibleSmallQWE_CardDescription,A clay container for alloying and casting metals.\n\nReady to be cast into a mold.,金属を溶かしたり合金を作ったりするための粘土製の容れ物。\n\n型に流し込む準備ができている。
 MoltenCrucibleSmallQWE_AlternateNames[0].Name,Molten Copper,
 MoltenCrucibleSmallQWE_AlternateNames[1].Name,Molten Ghost Bronze,
 MoltenCrucibleSmallQWE_AlternateNames[2].Name,Molten Tin,
 MoltenCrucibleSmallQWE_AlternateNames[3].Name,Molten Tin Bronze,
 MoltenCrucibleSmallQWE_AlternateNames[4].Name,Molten White Bronze,
-MoltenCrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+MoltenCrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 MoltenCrucibleSmallQWE_Progress.CardStatName,Smelted,
-MoltenCrucibleSmallQWE_Progress.OnZero.ActionDescription,Crucible solidified!,
+MoltenCrucibleSmallQWE_Progress.OnZero.ActionDescription,Crucible solidified!,坩堝の中身は固まった！
 MoltenCrucibleSmallQWE_SpecialDurability2.CardStatName,Metal Quality,
 MoltenCrucibleSmallQWE_SpecialDurability3.CardStatName,Quality,クオリティ
 MoltenCrucibleSmallQWE_SpecialDurability4.CardStatName,Metal Type,
 MoltenCrucibleSmallQWE_DismantleActions[0].ActionName,Empty,空っぽ
 MoltenMetalCrucibleSmallRefinedCopper_CardName,Molten Refined Copper,
 MoltenMetalCrucibleSmallRefinedCopper_CardDescription,A clay container for alloying and casting metals.\n\nReady to emptied.,
-MoltenMetalCrucibleSmallRefinedCopper_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+MoltenMetalCrucibleSmallRefinedCopper_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 MoltenMetalCrucibleSmallRefinedCopper_Progress.CardStatName,Smelted,
-MoltenMetalCrucibleSmallRefinedCopper_Progress.OnZero.ActionDescription,Crucible solidified!,
+MoltenMetalCrucibleSmallRefinedCopper_Progress.OnZero.ActionDescription,Crucible solidified!,坩堝の中身は固まった！
 MoltenMetalCrucibleSmallRefinedCopper_SpecialDurability2.CardStatName,Metal Quality,
 MoltenMetalCrucibleSmallRefinedCopper_SpecialDurability3.CardStatName,Quality,クオリティ
 MoltenMetalCrucibleSmallRefinedCopper_SpecialDurability4.CardStatName,Metal Type,
@@ -9186,7 +9186,7 @@ PreparedCrucibleLargeQWE_AlternateNames[1].Name,Prepared Ghost Bronze,
 PreparedCrucibleLargeQWE_AlternateNames[2].Name,Prepared Tin,
 PreparedCrucibleLargeQWE_AlternateNames[3].Name,Prepared Tin Bronze,
 PreparedCrucibleLargeQWE_AlternateNames[4].Name,Prepared White Bronze,
-PreparedCrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+PreparedCrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 PreparedCrucibleLargeQWE_Progress.CardStatName,Smelted,
 PreparedCrucibleLargeQWE_Progress.OnFull.ActionDescription,Crucible smelted!,
 PreparedCrucibleLargeQWE_SpecialDurability2.CardStatName,Metal Quality,
@@ -9200,7 +9200,7 @@ PreparedCrucibleSmallQWE_AlternateNames[1].Name,Prepared Ghost Bronze,
 PreparedCrucibleSmallQWE_AlternateNames[2].Name,Prepared Tin,
 PreparedCrucibleSmallQWE_AlternateNames[3].Name,Prepared Tin Bronze,
 PreparedCrucibleSmallQWE_AlternateNames[4].Name,Prepared White Bronze,
-PreparedCrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+PreparedCrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 PreparedCrucibleSmallQWE_Progress.CardStatName,Smelted,
 PreparedCrucibleSmallQWE_Progress.OnFull.ActionDescription,Crucible smelted!,
 PreparedCrucibleSmallQWE_SpecialDurability2.CardStatName,Metal Quality,
@@ -9209,7 +9209,7 @@ PreparedCrucibleSmallQWE_SpecialDurability4.CardStatName,Metal Type,
 PreparedCrucibleSmallQWE_DismantleActions[0].ActionName,Empty,空っぽ
 PreparedMetalCrucibleSmallRefinedCopper_CardName,Copper Prepared for Refining,
 PreparedMetalCrucibleSmallRefinedCopper_CardDescription,A clay container for alloying and casting metals.\n\nReady to be placed in a furnace.,
-PreparedMetalCrucibleSmallRefinedCopper_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+PreparedMetalCrucibleSmallRefinedCopper_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 PreparedMetalCrucibleSmallRefinedCopper_Progress.CardStatName,Smelted,
 PreparedMetalCrucibleSmallRefinedCopper_Progress.OnFull.ActionDescription,Crucible smelted!,
 PreparedMetalCrucibleSmallRefinedCopper_SpecialDurability2.CardStatName,Metal Quality,
@@ -9238,7 +9238,7 @@ SolidifiedCrucibleLargeQWE_AlternateNames[1].Name,Solidified Ghost Bronze,
 SolidifiedCrucibleLargeQWE_AlternateNames[2].Name,Solidified Tin,
 SolidifiedCrucibleLargeQWE_AlternateNames[3].Name,Solidified Tin Bronze,
 SolidifiedCrucibleLargeQWE_AlternateNames[4].Name,Solidified White Bronze,
-SolidifiedCrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+SolidifiedCrucibleLargeQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 SolidifiedCrucibleLargeQWE_Progress.CardStatName,Smelted,
 SolidifiedCrucibleLargeQWE_Progress.OnFull.ActionDescription,Crucible smelted!,
 SolidifiedCrucibleLargeQWE_SpecialDurability2.CardStatName,Metal Quality,
@@ -9251,7 +9251,7 @@ SolidifiedCrucibleSmallQWE_AlternateNames[1].Name,Solidified Ghost Bronze,
 SolidifiedCrucibleSmallQWE_AlternateNames[2].Name,Solidified Tin,
 SolidifiedCrucibleSmallQWE_AlternateNames[3].Name,Solidified Tin Bronze,
 SolidifiedCrucibleSmallQWE_AlternateNames[4].Name,Solidified White Bronze,
-SolidifiedCrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+SolidifiedCrucibleSmallQWE_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 SolidifiedCrucibleSmallQWE_Progress.CardStatName,Smelted,
 SolidifiedCrucibleSmallQWE_Progress.OnFull.ActionDescription,Crucible smelted!,
 SolidifiedCrucibleSmallQWE_SpecialDurability2.CardStatName,Metal Quality,
@@ -9259,7 +9259,7 @@ SolidifiedCrucibleSmallQWE_SpecialDurability3.CardStatName,Quality,クオリテ�
 SolidifiedCrucibleSmallQWE_SpecialDurability4.CardStatName,Metal Type,
 SolidifiedMetalCrucibleSmallRefinedCopper_CardName,Solidified Refined Copper,
 SolidifiedMetalCrucibleSmallRefinedCopper_CardDescription,A clay container for alloying and casting metals.\n\nNeeds to be smelted again.,
-SolidifiedMetalCrucibleSmallRefinedCopper_UsageDurability.OnZero.ActionDescription,Crucible broke!,
+SolidifiedMetalCrucibleSmallRefinedCopper_UsageDurability.OnZero.ActionDescription,Crucible broke!,坩堝が壊れた！
 SolidifiedMetalCrucibleSmallRefinedCopper_Progress.CardStatName,Smelted,
 SolidifiedMetalCrucibleSmallRefinedCopper_Progress.OnFull.ActionDescription,Crucible smelted!,
 SolidifiedMetalCrucibleSmallRefinedCopper_SpecialDurability2.CardStatName,Metal Quality,
@@ -10396,7 +10396,7 @@ CheeseHardCut_SpecialDurability2.CardStatName,Quality,クオリティ
 CheeseHardCut_CardInteractions[0].ActionName,Cut,切る
 CheeseHardWedge_CardName,Hard Cheese Wedge,切り分けたハードチーズ
 CheeseHardWedge_CardDescription,Tasty and rich.,美味しくて濃厚。
-CheeseHardWedge_SpoilageTime.CardStatName,Maturity,
+CheeseHardWedge_SpoilageTime.CardStatName,Maturity,熟成度
 CheeseHardWedge_SpoilageTime.OnFull.ActionDescription,Cheese Spoiled!,チーズが腐った！
 CheeseHardWedge_UsageDurability.CardStatName,Fat,脂
 CheeseHardWedge_FuelCapacity.CardStatName,Temperature,温度
@@ -10404,7 +10404,7 @@ CheeseHardWedge_SpecialDurability2.CardStatName,Quality,クオリティ
 CheeseHardWedge_DismantleActions[0].ActionName,Eat,食べる
 CheeseHardWhole_CardName,Hard Cheese,ハードチーズ
 CheeseHardWhole_CardDescription,Can be left to mature into aged cheese or cut into wedges to be eaten.,
-CheeseHardWhole_SpoilageTime.CardStatName,Maturity,
+CheeseHardWhole_SpoilageTime.CardStatName,Maturity,熟成度
 CheeseHardWhole_SpoilageTime.OnFull.ActionDescription,Cheese Matured!,
 CheeseHardWhole_UsageDurability.CardStatName,Fat,脂
 CheeseHardWhole_FuelCapacity.CardStatName,Temperature,温度
@@ -10582,7 +10582,7 @@ HeatherFlowersFresh_SpecialDurability1.CardStatName,Burn,焼く
 HeatherFlowersFresh_SpecialDurability2.CardStatName,Quality,クオリティ
 HeatherFlowersFresh_CardInteractions[0].ActionName,Soak,浸す
 HeatherFlowersFresh_DismantleActions[0].ActionName,Eat,食べる
-JuniperberriesCrushed_CardName,Crushed Juniper Berries,
+JuniperberriesCrushed_CardName,Crushed Juniper Berries,潰したジュニパーベリー
 JuniperberriesCrushed_CardDescription,Can be used as seasoning and food preservative.,
 JuniperberriesCrushed_SpoilageTime.CardStatName,Spoilage,腐敗
 JuniperberriesCrushed_SpoilageTime.OnFull.ActionDescription,Juniper Berries Spoiled!,ジュニパーベリーが腐った！
@@ -10607,7 +10607,7 @@ JuniperberriesFresh_SpecialDurability2.CardStatName,Quality,クオリティ
 JuniperberriesFresh_SpecialDurability3.CardStatName,Mill,製粉
 JuniperberriesFresh_CardInteractions[0].ActionName,Mash,潰す
 JuniperberriesFresh_DismantleActions[0].ActionName,Eat,食べる
-JuniperberriesRoastedCrushed_CardName,Crushed  Roasted Juniper Berries,
+JuniperberriesRoastedCrushed_CardName,Crushed  Roasted Juniper Berries,潰した焼いたジュニパーベリー
 JuniperberriesRoastedCrushed_CardDescription,Can be used as seasoning.,
 JuniperberriesRoastedCrushed_SpoilageTime.CardStatName,Spoilage,腐敗
 JuniperberriesRoastedCrushed_SpoilageTime.OnFull.ActionDescription,Juniper Berries Spoiled!,ジュニパーベリーが腐った！
@@ -12899,8 +12899,8 @@ Clay_CardName,Clay,粘土
 Clay_CardDescription,Ideal for crafting pots and improving waterproofing in construction.,陶器を作ったり、建造物を防水にすることができる。
 Clay_SpecialDurability2.CardStatName,Quality,クオリティ
 Clay_SpecialDurability3.CardStatName,Mill,製粉
-Clay_CardInteractions[2].ActionName,Crush,
-Clay_CardInteractions[1].ActionName,Crush,
+Clay_CardInteractions[2].ActionName,Crush,潰す
+Clay_CardInteractions[1].ActionName,Crush,潰す
 Clay_CardInteractions[0].ActionName,Craft Bowl,ボウルを作る
 Clay_OnStatsChangeActions[0].ActionName,Add QuernMillingBonus to Quality,石臼ボーナスをクオリティに追加
 Cloth_CardName,Cloth,布
@@ -18944,7 +18944,7 @@ Tgr_GreaterMudlingSpawn_Actions[0].ActionName,Greater Mudling Spawn,グレート
 Tgr_Pee_Actions[0].ActionName,You Peed Yourself,お漏らししてしまった
 Tgr_Poop_Actions[0].ActionName,You Pooped Yourself,うんこを漏らしてしまった
 Tgr_Poop_Actions[1].ActionName,You Pooped Yourself (Diarrhoea),
-CombatSpice_Bleeding_SpiceName,Bleeding,
+CombatSpice_Bleeding_SpiceName,Bleeding,出血
 CombatSpice_TranquilizerCoatingExtreme_SpiceName,Tranquilizer Coating,鎮静コーティング
 CombatSpice_TranquilizerCoatingModerate_SpiceName,Tranquilizer Coating,鎮静コーティング
 CombatSpice_TranquilizerCoatingStrong_SpiceName,Tranquilizer Coating,鎮静コーティング
@@ -20919,12 +20919,12 @@ SwampFeverInfectedRBCsQWE_Statuses[3].GameName,High Fever,高熱
 SwampFeverInfectedRBCsQWE_Statuses[3].Description,My body is burning,体がかなり熱い
 SwampFeverInfectedRBCsQWE_Statuses[4].GameName,Very High Fever,すごい高熱
 SwampFeverInfectedRBCsQWE_Statuses[4].Description,...,・・・
-SwampFeverMerozoitesQWE_Description,"Caught through mosquito bites.\n\nCyclical disease that can make you feel tired, give you general pain, cause hydration loss, headaches and confusion.",
-SwampFeverMerozoitesQWE_Statuses[1].GameName,Swamp Fever,
-SwampFeverMerozoitesQWE_Statuses[3].GameName,Swamp Fever,
-SwampFeverMerozoitesQWE_Statuses[5].GameName,Swamp Fever,
-SwampFeverMerozoitesQWE_Statuses[7].GameName,Swamp Fever,
-SwampFeverSporozoitesQWE_Statuses[0].GameName,Sporozoites,
+SwampFeverMerozoitesQWE_Description,"Caught through mosquito bites.\n\nCyclical disease that can make you feel tired, give you general pain, cause hydration loss, headaches and confusion.",蚊に刺されることで感染する。\n\n周期性のある病気で、疲労、全身の痛み、脱水症状、頭痛、錯乱などを引き起こす。
+SwampFeverMerozoitesQWE_Statuses[1].GameName,Swamp Fever,沼地熱
+SwampFeverMerozoitesQWE_Statuses[3].GameName,Swamp Fever,沼地熱
+SwampFeverMerozoitesQWE_Statuses[5].GameName,Swamp Fever,沼地熱
+SwampFeverMerozoitesQWE_Statuses[7].GameName,Swamp Fever,沼地熱
+SwampFeverSporozoitesQWE_Statuses[0].GameName,Sporozoites,胞子虫
 Bruising_GameName,Bruising,アザ
 Bruising_Description,"Caused by hard impacts, produces pain.",何かに強くぶつかるとなる。
 Bruising_Statuses[0].GameName,Bruised,痣ができてる
@@ -21099,15 +21099,15 @@ Size_Statuses[0].GameName,Very Large,巨大
 Size_Statuses[1].GameName,Large,大きい
 Size_Statuses[2].GameName,Small,小さい
 Size_Statuses[3].GameName,Very Small,かなり小さい
-StomachacheQWE_GameName,Stomachache,
-StomachacheQWE_Description,Can be caused by poisoning. Produces pain.,
-StomachacheQWE_Statuses[0].GameName,Mild stomachache,
-StomachacheQWE_Statuses[0].Description,I have a bit of a stomachache,
-StomachacheQWE_Statuses[1].GameName,Stomachache,
-StomachacheQWE_Statuses[1].Description,My stomach hurts.,
-StomachacheQWE_Statuses[2].GameName,Severe Stomachache,
-StomachacheQWE_Statuses[2].Description,My stomach is killing me!,
-Symmetry_GameName,Symmetry,
+StomachacheQWE_GameName,Stomachache,腹痛
+StomachacheQWE_Description,Can be caused by poisoning. Produces pain.,毒により起きる。痛みをもたらす。
+StomachacheQWE_Statuses[0].GameName,Mild stomachache,多少の腹痛
+StomachacheQWE_Statuses[0].Description,I have a bit of a stomachache,ちょっとお腹が痛い。
+StomachacheQWE_Statuses[1].GameName,Stomachache,腹痛
+StomachacheQWE_Statuses[1].Description,My stomach hurts.,お腹が痛む。
+StomachacheQWE_Statuses[2].GameName,Severe Stomachache,ひどい腹痛
+StomachacheQWE_Statuses[2].Description,My stomach is killing me!,腹痛で死にそうだ！
+Symmetry_GameName,Symmetry,調和
 Symmetry_Statuses[0].GameName,Low,低
 Symmetry_Statuses[1].GameName,Medium,中
 Symmetry_Statuses[2].GameName,High,高
@@ -21124,7 +21124,7 @@ AlcoholEffect_Statuses[1].GameName,Drunk,酔った
 AlcoholEffect_Statuses[1].Description,I think I'm drunk.,酔ってるかもしれない
 AlcoholEffect_Statuses[1].StatusLog.LogText,I got drunk.,酔っちゃった
 AlcoholEffect_Statuses[2].GameName,Horribly Drunk,飲みすぎちゃった
-AlcoholEffect_Statuses[2].Description,I'm... hic*... really... hic*... druuunk...,ちょ、ひっ！ちょっと飲み、ひっ！飲み過ぎた・・・
+AlcoholEffect_Statuses[2].Description,I'm... hic*... really... hic*... druuunk...,ちょ、ひっく！ちょっと飲み、ひっく！飲み過ぎた・・・
 AlcoholEffect_Statuses[2].StatusLog.LogText,I got very drunk.,泥酔
 AntibioticsEffect_GameName,Antibiotics,抗生物質
 AntibioticsEffect_Description,"This effect considerably boosts your immune system, helping you kill bacteria and parasites.",免疫力をブーストし、ばい菌と寄生虫を殺すことを手伝う。
@@ -21968,7 +21968,7 @@ W_BearBiteQWE_SpoilageTime.OnFull.ActionName,Bear Bite,
 W_BearBiteQWE_SpoilageTime.OnFull.ActionDescription,Wound healed!,傷が治った！
 W_BearBiteQWE_UsageDurability.CardStatName,Infection,感染
 W_BearBiteQWE_FuelCapacity.CardStatName,Pain,痛み
-W_BearBiteQWE_Progress.CardStatName,Bleeding,
+W_BearBiteQWE_Progress.CardStatName,Bleeding,出血
 W_BearBiteQWE_SpecialDurability1.CardStatName,Healing Factor,治癒因子
 W_BearBiteQWE_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
 W_BearBiteQWE_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
@@ -21985,7 +21985,7 @@ W_BearClawmarksQWE_SpoilageTime.OnFull.ActionName,Bear Bite,
 W_BearClawmarksQWE_SpoilageTime.OnFull.ActionDescription,Wound healed!,傷が治った！
 W_BearClawmarksQWE_UsageDurability.CardStatName,Infection,感染
 W_BearClawmarksQWE_FuelCapacity.CardStatName,Pain,痛み
-W_BearClawmarksQWE_Progress.CardStatName,Bleeding,
+W_BearClawmarksQWE_Progress.CardStatName,Bleeding,出血
 W_BearClawmarksQWE_SpecialDurability1.CardStatName,Healing Factor,治癒因子
 W_BearClawmarksQWE_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
 W_BearClawmarksQWE_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
@@ -22068,7 +22068,7 @@ W_ForestBeastBite_SpoilageTime.OnFull.ActionName,Bear Bite,
 W_ForestBeastBite_SpoilageTime.OnFull.ActionDescription,Wound healed!,傷が治った！
 W_ForestBeastBite_UsageDurability.CardStatName,Infection,感染
 W_ForestBeastBite_FuelCapacity.CardStatName,Pain,痛み
-W_ForestBeastBite_Progress.CardStatName,Bleeding,
+W_ForestBeastBite_Progress.CardStatName,Bleeding,出血
 W_ForestBeastBite_SpecialDurability1.CardStatName,Healing Factor,治癒因子
 W_ForestBeastBite_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
 W_ForestBeastBite_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
@@ -22085,7 +22085,7 @@ W_ForestBeastClawmarks_SpoilageTime.OnFull.ActionName,Bear Bite,
 W_ForestBeastClawmarks_SpoilageTime.OnFull.ActionDescription,Wound healed!,傷が治った！
 W_ForestBeastClawmarks_UsageDurability.CardStatName,Infection,感染
 W_ForestBeastClawmarks_FuelCapacity.CardStatName,Pain,痛み
-W_ForestBeastClawmarks_Progress.CardStatName,Bleeding,
+W_ForestBeastClawmarks_Progress.CardStatName,Bleeding,出血
 W_ForestBeastClawmarks_SpecialDurability1.CardStatName,Healing Factor,治癒因子
 W_ForestBeastClawmarks_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
 W_ForestBeastClawmarks_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
