@@ -2,10 +2,10 @@
 ゲーム [Card Survival: Fantasy Forest](https://store.steampowered.com/app/2868860/Card_Survival_Fantasy_Forest/) の日本語訳改善プロジェクト (非公式) です。
 
 ## 翻訳進捗
-現在の翻訳完了率は全体の約 77% です。  
-うち、当プロジェクトでの改善寄与率は約 37% です。  
-参考: 公式版の日本語翻訳率は約 57% です。  
-(本体のバージョン: EA_0.60c)
+現在の翻訳完了率は全体の約 78.7% です。  
+うち、当プロジェクトでの改善寄与率は約 49.5% です。  
+参考: 公式版の日本語翻訳率は約 47.8% です。  
+(本体のバージョン: EA_0.62f)
 
 Jp-beta.csv はバージョン EA_beta_0.63b に対応しています。
 
@@ -33,7 +33,7 @@ Nexus Mods で公開されている [Mod Core](https://www.nexusmods.com/cardsur
 4. ゲームを起動する
 
 ## 連絡先等
-対応状況等は以下blueskyでも発信しています。
+対応状況等は以下blueskyでも発信しています。  
 https://bsky.app/profile/ikalga.bsky.social
 
 ## Q&A
