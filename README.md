@@ -7,7 +7,7 @@
 参考: 公式版の日本語翻訳率は約 47.8% です。  
 (本体のバージョン: EA_0.62f)
 
-Jp-beta.csv はβブランチ用ですが、バージョン EA_beta_0.64b は公式の日本語化ファイルにキーの漏れがあるようで、現在正常動作しない可能性があります。
+Jp-beta.csv はβブランチ (EA_beta_0.64) 用ですが、公式の日本語化ファイルであったキーの漏れを独自に埋めているため、正常動作しない可能性があります。
 
 ---
 
@@ -34,7 +34,7 @@ Nexus Mods で公開されている [Mod Core](https://www.nexusmods.com/cardsur
 
 ## 連絡先等
 対応状況等は以下blueskyでも発信しています。  
-https://bsky.app/profile/ikalga.bsky.social
+https://bsky.app/profile/bsky.ikalga.net
 
 ## Q&A
 
