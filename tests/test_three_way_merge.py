@@ -23,7 +23,7 @@ class TestClassify(unittest.TestCase):
     """
     classify のテスト。
     in_old・in_new の有無と old_jp/new_jp/mod_jp の値の組み合わせを網羅し、
-    全ステータス（conflict / official_changed / mod_changed / added / deleted /
+    全ステータス（conflict / both_changed / official_changed / mod_changed / added / deleted /
     mod_only / untranslated / unchanged）が正しく返ることを検証する。
     untranslated と unchanged の境界ケースも明示的に確認する。
     """
@@ -39,6 +39,10 @@ class TestClassify(unittest.TestCase):
 
     def test_conflict(self):
         self.assertEqual(classify(True, True, True, "旧訳", "新公式訳", "改善訳"), "conflict")
+
+    def test_both_changed(self):
+        """新公式・改善版が同じ内容に変更されていれば both_changed。"""
+        self.assertEqual(classify(True, True, True, "旧訳", "新訳", "新訳"), "both_changed")
 
     def test_official_changed_mod_same_as_old(self):
         self.assertEqual(classify(True, True, True, "旧訳", "新公式訳", "旧訳"), "official_changed")
