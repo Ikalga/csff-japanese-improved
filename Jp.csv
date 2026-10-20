@@ -653,14 +653,14 @@ MoonMaidenDream_Heart cannot bear it_Line,She holds your eyes.\nSorrow. Longing.
 MoonMaidenDream_A white figure emerges_Line,A white figure steps from the trees.\nA fair maiden with long pale hair. \nA faint glow of moonlight clings to her like mist.\nPain pierces your heart,白い人影が木々の間から現れる。\n長く淡い髪を持つ美しい乙女。\n月光の淡い輝きが霧のように彼女へまとわりついている。\n胸に痛みが走る。
 MoonMaidenDream_A white figure emerges_PossibleAnswers[0].Answer,Approach her,彼女に近づく
 MoonMaidenDream_A white figure emerges_PossibleAnswers[1].Answer,Wait,待つ
-MoonMaidenDream_Mine Huntsman_Line,"She lifts her gaze and meets yours.\n\n""Mine huntsman."" she says.\n\nYour heart throbs in pain.",
+MoonMaidenDream_Mine Huntsman_Line,"She lifts her gaze and meets yours.\n\n""Mine huntsman."" she says.\n\nYour heart throbs in pain.",彼女は静かに顔を上げ、あなたを見つめ返す。\n\n「我がハントマンよ」\n彼女はそう囁く。\n\n胸が、痛みに脈打つ。
 MoonMaidenDream_Mine Huntsman_PossibleAnswers[0].Answer,I will hunt the Beast,獣を狩ってみせる
 MoonMaidenDream_Mine Huntsman_PossibleAnswers[1].Answer,I am sorry,ごめんなさい・・・
-MoonMaidenDream_Mine own man_Line,"She comes closer. Still holding her gaze.\n\n"" Mine own man"" she says. \n\nHer light seems fainter now.\n\nThe pain deepens.",
+MoonMaidenDream_Mine own man_Line,"She comes closer. Still holding her gaze.\n\n"" Mine own man"" she says. \n\nHer light seems fainter now.\n\nThe pain deepens.",彼女は視線を重ねたまま、ゆっくりと近づいてくる。\n\n「我が愛しき人」\n彼女はそう囁く。\n\nその光は、先ほどよりも淡く見えた。\n\n胸の痛みがさらに深まっていく。
 MoonMaidenDream_Mine own man_PossibleAnswers[0].Answer,I will find it and slay it,必ず見つけ出し、この手で倒す
 MoonMaidenDream_Mine own man_PossibleAnswers[1].Answer,I need your help...,あなたの助けが必要・・・
-MoonMaidenDream_Mine Undoing_Line,"She smiles with quiet sorrow.\n\n""Mine undoing.""\n\nYour heart finally breaks.",
-MoonMaidenDream_No beast you cannot hunt_Line,"""There is no beast you cannot hunt. We will help you slay it.""\n\nHer eyes flick to your hunting spear, coated in poison.\nThe weapon glows with moonlight.",
+MoonMaidenDream_Mine Undoing_Line,"She smiles with quiet sorrow.\n\n""Mine undoing.""\n\nYour heart finally breaks.",彼女は静かな哀しみを湛えたまま微笑む。\n\n「我が破滅よ」\n\nその瞬間、あなたの心はついに砕け散る。
+MoonMaidenDream_No beast you cannot hunt_Line,"""There is no beast you cannot hunt. We will help you slay it.""\n\nHer eyes flick to your hunting spear, coated in poison.\nThe weapon glows with moonlight.",「狩れぬ獣などいない。\n私たちが討つ力を授けよう」\n\n彼女の視線が、毒を塗られた狩猟槍へ落ちる。\nその刃は月明かりを浴び、青白く輝いていた。
 MoonMaidenDream_Nothing Comes_Line,You ready your bow. You nock your arrow. You wait.\n\nBut nothing comes. The moon ignores you.,弓を構え、矢を番え、待つ。\n\nだが何も現れない。月はあなたを無視している。
 MoonMaidenDream_Only ache remains_Line,You step forward.\n\nShe is gone. \nOnly moonlight on leaves and grass.\nOnly the ache remains.,あなたは一歩踏み出す。\n\n彼女は消えていた。\n葉と草の上に月光だけが残る。\n残ったのは痛みだけだ。
 MoonMaidenDream_Search in the dark_Line,You search the dark.\nBranches shift. Something large is there.\n\nBut when you look back at your maiden...\nShe is gone.,闇の中を探る。\n枝が揺れる。\n大きな何かが、そこにいる。\n\nだが、再び乙女へ目を向けた時。\n彼女の姿は消えていた。
@@ -675,15 +675,15 @@ MoonMaidenDream_Walks towards you_PossibleAnswers[0].Answer,Keep your eyes on he
 MoonMaidenDream_Walks towards you_PossibleAnswers[1].Answer,Turn toward the sound,音のした方を向く
 MoonMaidenDream_walks towards you again_Line,"She walks towards you slowly, eyes cast down.\nThen you hear it.\n\nSomething large moves in the woods.",彼女は目を伏せたまま、ゆっくりとこちらへ歩いてくる。\nその時、あなたは聞いた。\n\n森の中で何か大きなものが動いている。
 MoonMaidenDream_walks towards you again_PossibleAnswers[0].Answer,But I slayed it!,私は・・・確かに討ったはずだ！
-MoonMaidenDream_We will guide you_Line,""" There is no beast you cannot track. We will help you find it.""\n\nYou notice the beast's tracks, faintly glowing under the moonlight.\nYour heart knows how to find it.",
+MoonMaidenDream_We will guide you_Line,""" There is no beast you cannot track. We will help you find it.""\n\nYou notice the beast's tracks, faintly glowing under the moonlight.\nYour heart knows how to find it.",「追えぬ獣など存在しない。\n私たちがその道を示そう」\n\n獣の足跡が月光の下で淡く輝いている。\nどう追えばよいのかを、心はすでに知っていた。
 MoonMaidenDream_white figure again_Line,A white figure steps from the trees.\nA fair maiden with long pale hair. \nA faint glow of moonlight clings to her like mist.\nPain pierces your heart,白い人影が木々の間から現れる。\n長く淡い髪を持つ美しい乙女。\n月光の淡い輝きが霧のように彼女へまとわりついている。\n胸に痛みが走る。
 MoonMaidenDream_white figure again_PossibleAnswers[0].Answer,Wait,待つ
-MoonMaidenDream_Why?_Line,"She tilts her head.\n""Why?""",
+MoonMaidenDream_Why?_Line,"She tilts her head.\n""Why?""",彼女はわずかに首を傾げる。\n「・・・なぜ？」
 MoonMaidenDream_Why?_PossibleAnswers[0].Answer,I am a coward,私は臆病者だ
 MoonMaidenDream_Why?_PossibleAnswers[1].Answer,I cannot find it,見つけられない・・・
 MoonMaidenDream_Why?_PossibleAnswers[2].Answer,I am not strong enough,私には・・・力が足りない
 MoonMaidenDream_You and the forest_Line,"You turn and brace your spear.\nNothing is there.\n\nWhen your turn back, your white maiden is gone.\nOnly you and the forest remain.",あなたは振り返り、槍を構える。\nそこには何もいない・・・。\n\n再び向き直った時、白き乙女の姿は消えていた。\n残されているのは、あなたと森だけだ。
-MoonMaidenDream_You are not alone_Line,""" There is no fear you can't overcome. We will help you face it.""\n\nShe smiles and looks up at the white moon above.\nYou feel the moonlight seep into your heart.",
+MoonMaidenDream_You are not alone_Line,""" There is no fear you can't overcome. We will help you face it.""\n\nShe smiles and looks up at the white moon above.\nYou feel the moonlight seep into your heart.",「乗り越えられぬ恐れなどない。\n私たちが共に向き合おう」\n\n彼女は柔らかく微笑み、白い月を見上げる。\n月光が胸の奥へ静かに染み渡っていく。
 TraderIntroAnimal_TraderIntroIntro_Line,"The man pauses, studying you in silence.",男性は立ち止まり、黙ってあなたを見つめている。
 TraderIntroAnimal_TraderIntroIntro_PossibleAnswers[0].Answer,Approach cautiously,慎重に近づく
 TraderIntroAnimal_TraderIntroIntro_PossibleAnswers[1].Answer,Leave the man alone,彼を放っておく
