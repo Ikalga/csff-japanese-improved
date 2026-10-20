@@ -133,6 +133,7 @@ python tools/three_way_merge.py Jp-original.csv Jp-new.csv Jp-improved.csv outpu
 | 状態 | 意味 |
 |---|---|
 | `conflict` | 新公式・改善版の両方が、それぞれ異なる内容に変更されている（要確認） |
+| `both_changed` | 新公式・改善版の両方が、同じ内容に変更されている |
 | `official_changed` | 新公式のみ変更されている（公式アップデートの反映候補） |
 | `mod_changed` | 改善版のみ変更されている |
 | `added` | 新公式で追加された新しいキー |

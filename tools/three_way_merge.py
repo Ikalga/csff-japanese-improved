@@ -16,6 +16,7 @@ Arguments:
 
 状態の値:
     conflict         : 新公式・改善版の両方が別々に変更
+    both_changed     : 新公式・改善版の両方が同じ内容に変更
     official_changed : 新公式のみ変更
     mod_changed      : 改善版のみ変更
     added            : 新公式で追加されたキー (旧公式に存在しない)
@@ -46,7 +47,7 @@ def classify(in_old: bool, in_new: bool, in_mod: bool, old_jp: str, new_jp: str,
     mod_changed = in_mod and mod_jp != old_jp
 
     if official_changed and mod_changed:
-        return "conflict"
+        return "both_changed" if new_jp == mod_jp else "conflict"
     elif official_changed:
         return "official_changed"
     elif mod_changed:
@@ -112,7 +113,7 @@ def main():
 
     # サマリー
     counter = Counter(r[7] for r in rows)
-    status_order = ["conflict", "official_changed", "mod_changed", "added", "deleted", "mod_only", "untranslated", "unchanged"]
+    status_order = ["conflict", "both_changed", "official_changed", "mod_changed", "added", "deleted", "mod_only", "untranslated", "unchanged"]
     print(f"\n出力完了: {out_path}  ({len(rows)} 行)")
     print("-" * 40)
     for status in status_order:
