@@ -5637,9 +5637,9 @@ Pk_3_HighTestosterone_PerkName,High Testosterone,男性ホルモン（高）
 Pk_3_HighTestosterone_PerkDescription,"Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass.",男性ホルモンが多い。積極性が増す。体毛が多く、身長が高く、筋肉量が多い。
 Pk_3_LowTestosterone_PerkName,Low Testosterone,男性ホルモン（低）
 Pk_3_LowTestosterone_PerkDescription,"Reduces male physical traits, leading to a more youthful appearance, smaller stature, and less muscle mass.",男性ホルモンが少ない。見た目が若々しく、身長が小さく、筋肉量が少ない。
-Pk_8_ImmuneSystemStrong_PerkName,Strong Immune System,高い免疫力
+Pk_8_ImmuneSystemStrong_PerkName,Strong Immune System,強い免疫系
 Pk_8_ImmuneSystemStrong_PerkDescription,Makes you more resistant to disease.,病気にかかりにくい。
-Pk_8_ImmuneSystemWeak_PerkName,Weak Immune System,低い免疫力
+Pk_8_ImmuneSystemWeak_PerkName,Weak Immune System,弱い免疫系
 Pk_8_ImmuneSystemWeak_PerkDescription,Makes you more susceptible to disease.,病気にかかりやすい。
 Pk_2_2_PainSensitivity_PerkName,Pain Sensitivity,痛みの感受性
 Pk_2_2_PainSensitivity_PerkDescription,Makes you more sensitive to pain.,痛みの感じやすさ
@@ -6895,7 +6895,7 @@ RectalPressure_Statuses[2].Description,This is a rectal emergency!,肛門が危�
 RectalPressure_Statuses[2].PreventingActionMessage,Need to Poop before doing this Action.,このアクションの前にウンコしないと。
 RectalPressure_StatActions[0].ActionName,Defecate (Diarrhoea),ウンコする（下痢）
 RectalPressure_StatActions[1].ActionName,Defecate,排便する
-Satiation_GameName,Satiation,満腹度
+Satiation_GameName,Satiation,空腹度
 Satiation_Description,"Measures how full or hungry you feel. Overeating can lead to nausea and increase your stomach capacity, making it harder to feel full. Spending time hungry can cause stress, decrease your wellbeing, and reduce your stomach capacity, making it easier to feel full.",お腹の減りと満腹感を示す。食べ過ぎるとお腹のキャパシティが増し、吐き気がする。空腹の時間が続くとストレスが増え、幸福度が落ちる上にお腹のキャパシティが落ちて満腹になりやすくなる。
 Satiation_Statuses[0].GameName,Sick,気持ちが悪い
 Satiation_Statuses[0].Description,You ate too much and are feeling sick.,食べ過ぎて、ちょっと気持ち悪い
@@ -8137,7 +8137,7 @@ W_MudlingSpit_CardDescription,"Dirt in your eyes, you should wash it as soon as 
 W_MudlingSpit_FuelCapacity.OnZero.ActionName,Mudling Spit,ドロヌーの唾液
 W_MudlingSpit_FuelCapacity.OnZero.ActionDescription,Wound healed!,傷が治った！
 W_MudlingSpit_CardInteractions[0].ActionName,Clean,掃除する
-W_MudlingSpit_CardInteractions[0].ActionDescription,Weak Cleaner,クリーナー（弱い）
+W_MudlingSpit_CardInteractions[0].ActionDescription,Weak Cleaner,弱いクリーナー
 W_MudlingSpit_DismantleActions[0].ActionName,Clean,掃除する
 W_MudlingSpit_InventorySlotsText,PLACE DRESSING HERE,包帯をここに置く
 W_MudlingSpit_CookingRecipes[0].ActionName,Dressing,包帯
@@ -11212,7 +11212,7 @@ CopperBladeBlankQWE_CardName,Heated Metal Knife Blade Blank,加熱された金�
 CopperBladeBlankQWE_CardDescription,Must be struck into shape.,打ち鍛えて成形する必要がある。
 CopperBladeQWE_CardName,Metal Knife Blade,金属ナイフ刃
 CopperBladeQWE_CardDescription,Can be used to make a knife.,ナイフの製作に使用できる。
-CopperNuggetQWE_CardName,Metal Nugget,金属粒が必要
+CopperNuggetQWE_CardName,Metal Nugget,金属粒
 CopperNuggetQWE_CardDescription,A small piece of metal. Can be used to make metal tools and objects.\n\nShould be heated on a hot enough fire.,
 CopperNuggetQWE_FuelCapacity.CardStatName,Temperature,温度
 CopperSpearHeadBlankQWE_CardName,Heated Metal Spear Head Blank,加熱された金属槍先未成形品
@@ -11296,7 +11296,7 @@ Tab_5_MetalAndClay_Subtab_3_MetalCrafts_TabName,Metal Crafts,金属細工
 GpTag_Sealant_TabName,Sealant,密封材
 Bp_Enclosure_CardName,Enclosure,柵囲い
 Bp_Enclosure_CardDescription,An animal enclosure.,動物を囲っておくための囲い。
-Bp_Enclosure_UnlockConditionsDesc,Long Stick Needed,長い棒が必要
+Bp_Enclosure_UnlockConditionsDesc,Long Stick Needed,長い枝が必要
 Bp_ClothCoifQWE_CardName,Cloth Coif,布の頭巾
 Bp_ClothCoifQWE_CardDescription,Should protect me a bit from bug bites and the sun.,虫や日差しから守ってくれる。
 Bp_ClothCoifQWE_UnlockConditionsDesc,Cloth Needed,布が足りない
@@ -13124,7 +13124,7 @@ DuckRottenQWE_DismantleActions[0].ActionName,Harvest,収穫
 Fish_CharQWE_CardName,Char,イワナ
 Fish_CharQWE_CardDescription,"A rare and delicious fish that thrives in cold, well-oxygenated waters.\n\nNeeds to be gutted first.",冷たく酸素豊富な水域に生息する、希少で美味な魚。\n\nまず内臓を取り除く必要がある。
 Fish_CharQWE_SpoilageTime.CardStatName,Spoilage,腐敗
-Fish_CharQWE_SpoilageTime.OnFull.ActionDescription,Trout Spoiled!,イワナが腐った！
+Fish_CharQWE_SpoilageTime.OnFull.ActionDescription,Trout Spoiled!,マスが腐った！
 Fish_CharQWE_SpecialDurability1.CardStatName,Weight,体重
 Fish_CharQWE_SpecialDurability2.CardStatName,Quality,クオリティ
 Fish_CharQWE_CardInteractions[0].ActionName,Gut,捌く
@@ -16809,7 +16809,7 @@ GroveOak_PrimevalWoods_DismantleActions[2].ActionDescription,Gives you wood and 
 GroveOak_PrimevalWoods_DismantleActions[3].ActionName,North,北
 GroveOak_PrimevalWoods_DismantleActions[3].FadeMessage,Travelling North...,北へ移動中・・・
 GrovePine_CrowPines_CardName,Crow Pines,カラスの松林
-GrovePine_CrowPines_CardHelpSection,"<b>Pine Grove:\n</b>\n\n<b>Conditions:</b> Acidic soil.\n\n<b>Flora:</b> Pines, Healer's Moss, Fireroot, Bilberries (summer), Pine Nuts (autumn), Fly Agaric.\n\n<b>Fauna:</b> Squirrels.",<b>松林：\n</b>\n\n<b>環境:</b>酸性土壌。\n\n<b>植物:</b>松、ヒーラーモス、ファイアルート、ビルベリー（夏）、松の実（秋）、ベニテングタケ\n\n<b>動物:</b>リス。
+GrovePine_CrowPines_CardHelpSection,"<b>Pine Grove:\n</b>\n\n<b>Conditions:</b> Acidic soil.\n\n<b>Flora:</b> Pines, Healer's Moss, Fireroot, Bilberries (summer), Pine Nuts (autumn), Fly Agaric.\n\n<b>Fauna:</b> Squirrels.",<b>松の林：</b>\n\n<b>状態：</b>酸性土壌\n\n<b>植生：</b>松、回復コケ、ファイヤールート、ビルベリー（夏）、松の実（秋）、ベニテングタケ。\n\n\n<b>棲息：</b>リス。
 GrovePine_CrowPines_SpecialDurability1.CardStatName,Trees,木
 GrovePine_CrowPines_SpecialDurability2.CardStatName,Overgrowth,茂み
 GrovePine_CrowPines_SpecialDurability3.CardStatName,Foraging,資源集め
@@ -18046,8 +18046,8 @@ MoonPhase_GameName,Moon Phase,月齢
 MoonPhase_Statuses[3].GameName,Full Moon,満月
 MoonPhase_NotEnoughText,Wrong Moon Phase,月相が違う
 MoonPhase_TooMuchText,Wrong Moon Phase,月相が違う
-MoonShape_NotEnoughText,Not enough moonlight,月光が足りない
-MoonShape_TooMuchText,Not enough moonlight,月光が足りない
+MoonShape_NotEnoughText,Not enough moonlight,月明かりが足りない
+MoonShape_TooMuchText,Not enough moonlight,月明かりが足りない
 W_ForestBeastClawmarks_CardName,Forest Beast Clawmarks,森の巨獣による爪傷
 W_ForestBeastClawmarks_CardDescription,Causes pain and blood loss.\n\nApply a tourniquet and keep it clean and dress it to avoid infection.,痛みと出血を引き起こす。\n\n感染を防ぐため、止血帯を巻き、清潔に保って包帯を当てる必要がある。
 W_ForestBeastClawmarks_SpoilageTime.CardStatName,Recovery,回復
@@ -24657,7 +24657,7 @@ FirePit_CookingRecipes[0].CustomCookingText,Drying...,乾燥中・・・
 FirePit_CookingRecipes[1].CustomCookingText,Drying...,乾燥中・・・
 FirePit_CookingRecipes[2].CustomCookingText,Burning,焦げてる
 FirePitExtinguished_CardName,Fire Pit,
-FirePitExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.",
+FirePitExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.",燃料が足りてれば火口で火を起こすことができる。
 FirePitExtinguished_UsageDurability.CardStatName,Fragrance,香り
 FirePitExtinguished_Progress.CardStatName,Charcoal,木炭
 FirePitExtinguished_SpecialDurability1.CardStatName,Ash Amount,灰の量
@@ -25569,15 +25569,15 @@ Expression Hub_PossibleAnswers[4].Answer,Express Happiness,
 Expression Hub_PossibleAnswers[5].Answer,Express Sadness,
 PartnerDialog_Directions_Directions Hub_Line,Your partner listens.,
 PartnerDialog_Directions_Directions Hub_PossibleAnswers[0].Answer,Step Back,
-PartnerDialog_Directions_Directions Hub_PossibleAnswers[1].Answer,Follow,
+PartnerDialog_Directions_Directions Hub_PossibleAnswers[1].Answer,Follow,ついていく
 PartnerDialog_Directions_Directions Hub_PossibleAnswers[2].Answer,Stop Following,
 PartnerDialog_Directions_Directions Hub_PossibleAnswers[3].Answer,Mark place as home,
 PartnerDialog_Directions_Directions Hub_PossibleAnswers[5].Answer,Stop Processing Inventory,
 PartnerDialog_Directions_Directions Hub_PossibleAnswers[6].Answer,Process Inventory,
 PartnerDialog_ExpressAttraction_Express Attraction_Line,Your partner approaches you and expresses attraction.,
-PartnerDialog_ExpressAttraction_Express Attraction_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressAttraction_Express Attraction_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ExpressGratitude_Express Gratitude_Line,Your partner approaches you and expresses gratitude.,
-PartnerDialog_ExpressGratitude_Express Gratitude_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressGratitude_Express Gratitude_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_Expression_Expression Hub_PossibleAnswers[0].Answer,Step Back,
 PartnerDialog_Expression_Expression Hub_PossibleAnswers[1].Answer,Casual Talk,
 PartnerDialog_Expression_Expression Hub_PossibleAnswers[2].Answer,Express Care,
@@ -25613,13 +25613,13 @@ PartnerDialog_Expression_Listen - Failure_Line,"You listen to your partner atten
 PartnerDialog_Expression_Casual Talk - Success_Line,You make light conversation with the intention of keeping each other company\nThe reaction is positive.,
 PartnerDialog_Expression_Casual Talk - Failure_Line,You make light conversation with the intention of keeping each other company\nThe reaction is negative.,
 PartnerDialog_ExpressNeedAttention_Express Need Attention_Line,Your partner approaches you and expresses the need for attention.,
-PartnerDialog_ExpressNeedAttention_Express Need Attention_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressNeedAttention_Express Need Attention_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ExpressNeedFood_Express Need Food_Line,Your partner approaches you and expresses the urgent need for food.,
-PartnerDialog_ExpressNeedFood_Express Need Food_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressNeedFood_Express Need Food_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ExpressNeedTrust_Express Need Trust_Line,Your partner approaches you and expresses the urgent need for trust.,
-PartnerDialog_ExpressNeedTrust_Express Need Trust_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressNeedTrust_Express Need Trust_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ExpressNeedWarmth_Express Need Warmth_Line,Your partner approaches you and expresses the urgent need for warmth.,
-PartnerDialog_ExpressNeedWarmth_Express Need Warmth_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressNeedWarmth_Express Need Warmth_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ExpressUltimatum_Express Ultimatum_Line,Your partner has lost all trust in you and now approaches with the intention of leaving you.,
 PartnerDialog_ExpressUltimatum_Express Ultimatum_PossibleAnswers[0].Answer,Part Ways,
 PartnerDialog_ExpressUltimatum_Express Ultimatum_PossibleAnswers[1].Answer,Convince to Stay,
@@ -25629,7 +25629,7 @@ PartnerDialog_ExpressUltimatum_Partner Leaves_Line,Your partner leaves you.\n\nT
 PartnerDialog_ExpressUltimatum_Partner Leaves_ActionToPerform.DeleteNPCS[0].MessageToPlayer.Text,Your partner has left you.,
 TraderTalk_Request Hub_PossibleAnswers[8].Answer,Request a Partner,
 TraderTalkGeneral_Bring Partner_Line,He asks you to describe what kind of partner you are looking for.,
-TraderTalkGeneral_Bring Partner_PossibleAnswers[0].Answer,Cancel,
+TraderTalkGeneral_Bring Partner_PossibleAnswers[0].Answer,Cancel,キャンセル
 TraderTalkGeneral_Bring Partner_PossibleAnswers[1].Answer,Describe Partner,
 TraderTalkGeneral_Partner Confirmed_Line,"He says he will try to find such a person for his next forest visit, and that you should let him know if you change your mind.",
 DutyTag_Methodical_InGameName,Methodical,
@@ -25641,15 +25641,15 @@ PartnerDuty_ButcherMedium_DutyName,Butcher,
 PartnerDuty_ButcherSmall_DutyName,Butcher,
 PartnerDuty_ButcherTiny_DutyName,Butcher,
 PartnerDuty_ButcherVeryLarge_DutyName,Butcher,
-PartnerDuty_ClayVaseFillWithWater_DutyName,Fill with Water,
-PartnerDuty_Clean_DutyName,Clean,
+PartnerDuty_ClayVaseFillWithWater_DutyName,Fill with Water,水でいっぱいにする
+PartnerDuty_Clean_DutyName,Clean,掃除する
 PartnerDuty_CordMaking_DutyName,Cord Making,
 PartnerDuty_CreateIceHole_DutyName,Make Hole,
 PartnerDuty_CutDownTree_DutyName,Cut Down,
 PartnerDuty_DigMud_DutyName,Dig Mud,
-PartnerDuty_DrinkFree_DutyName,Drink,
-PartnerDuty_Eat_DutyName,Eat,
-PartnerDuty_EatFree_DutyName,Eat,
+PartnerDuty_DrinkFree_DutyName,Drink,飲む
+PartnerDuty_Eat_DutyName,Eat,食べる
+PartnerDuty_EatFree_DutyName,Eat,食べる
 PartnerDuty_ExpressAttraction_DutyName,Express Attraction,
 PartnerDuty_ExpressGratitude_DutyName,Express Gratitude,
 PartnerDuty_ExpressNeedAttention_DutyName,Express Need for Attention,
@@ -25659,66 +25659,66 @@ PartnerDuty_ExpressNeedWarmth_DutyName,Express Need for Warmth,
 PartnerDuty_ExpressUltimatum_DutyName,Express Ultimatum,
 PartnerDuty_Firekeeping_DutyName,Fire Keeping,
 PartnerDuty_FleshSkin_DutyName,Flesh,
-PartnerDuty_Follow_DutyName,Follow,
-PartnerDuty_Forage_DutyName,Forage,
-PartnerDuty_GardenHighAcidity_DutyName,High Acidity,
+PartnerDuty_Follow_DutyName,Follow,ついていく
+PartnerDuty_Forage_DutyName,Forage,資源を集める
+PartnerDuty_GardenHighAcidity_DutyName,High Acidity,酸度（高）
 PartnerDuty_GardenHighHydration_DutyName,High Hydration,
 PartnerDuty_GardenHIghNutrients_DutyName,High Nutrients,
-PartnerDuty_GardenInspect_DutyName,Inspect,
-PartnerDuty_GardenLowAcidity_DutyName,Low Acidity,
+PartnerDuty_GardenInspect_DutyName,Inspect,検査する
+PartnerDuty_GardenLowAcidity_DutyName,Low Acidity,酸度（低）
 PartnerDuty_GardenMediumAcidityAcidify_DutyName,Medium Acidity,
 PartnerDuty_GardenMediumAcidityNeutralize_DutyName,Medium Acidity,
 PartnerDuty_GardenMediumHydration_DutyName,Medium Hydration,
 PartnerDuty_GardenMediumNutrients_DutyName,Medium Nutrients,
 PartnerDuty_GatherBark_DutyName,Gather Bark,
 PartnerDuty_GatherWood_DutyName,Gather Wood,
-PartnerDuty_GrindWithHammeringTool_DutyName,Grind,
-PartnerDuty_GrindWithMortarAndPestle_DutyName,Grind,
-PartnerDuty_GutFish_DutyName,Gut,
-PartnerDuty_HarvestBogIron_DutyName,Harvest,
-PartnerDuty_HarvestClover_DutyName,Harvest,
-PartnerDuty_HarvestFlax_DutyName,Harvest,
-PartnerDuty_HarvestHeather_DutyName,Harvest,
-PartnerDuty_HarvestKingcup_DutyName,Harvest,
-PartnerDuty_HarvestMeadowgrass_DutyName,Harvest,
-PartnerDuty_HarvestNettle_DutyName,Harvest,
-PartnerDuty_HarvestPeas_DutyName,Harvest,
-PartnerDuty_HarvestPineRoots_DutyName,Harvest,
-PartnerDuty_HarvestReeds_DutyName,Harvest,
-PartnerDuty_HarvestRye_DutyName,Harvest,
-PartnerDuty_HarvestTurnroot_DutyName,Harvest,
-PartnerDuty_HarvestWheat_DutyName,Harvest,
+PartnerDuty_GrindWithHammeringTool_DutyName,Grind,磨り潰す
+PartnerDuty_GrindWithMortarAndPestle_DutyName,Grind,磨り潰す
+PartnerDuty_GutFish_DutyName,Gut,捌く
+PartnerDuty_HarvestBogIron_DutyName,Harvest,収穫
+PartnerDuty_HarvestClover_DutyName,Harvest,収穫
+PartnerDuty_HarvestFlax_DutyName,Harvest,収穫
+PartnerDuty_HarvestHeather_DutyName,Harvest,収穫
+PartnerDuty_HarvestKingcup_DutyName,Harvest,収穫
+PartnerDuty_HarvestMeadowgrass_DutyName,Harvest,収穫
+PartnerDuty_HarvestNettle_DutyName,Harvest,収穫
+PartnerDuty_HarvestPeas_DutyName,Harvest,収穫
+PartnerDuty_HarvestPineRoots_DutyName,Harvest,収穫
+PartnerDuty_HarvestReeds_DutyName,Harvest,収穫
+PartnerDuty_HarvestRye_DutyName,Harvest,収穫
+PartnerDuty_HarvestTurnroot_DutyName,Harvest,収穫
+PartnerDuty_HarvestWheat_DutyName,Harvest,収穫
 PartnerDuty_Idle_DutyName,Idle,
 PartnerDuty_IdleReturn_DutyName,Return Home,
-PartnerDuty_InspectField_DutyName,Inspect,
+PartnerDuty_InspectField_DutyName,Inspect,検査する
 PartnerDuty_LineFishing_DutyName,Fish,
 PartnerDuty_MakeBrick_DutyName,Make Brick,
-PartnerDuty_MakeClay_DutyName,Make Clay,
+PartnerDuty_MakeClay_DutyName,Make Clay,粘土を作る
 PartnerDuty_MakeFilling_DutyName,Make Filling,
 PartnerDuty_MakeTwineFromPineRoots_DutyName,Make Cord from Pine Roots,
-PartnerDuty_MilkTheCow_DutyName,Milk,
-PartnerDuty_MinceMeat_DutyName,Mince,
+PartnerDuty_MilkTheCow_DutyName,Milk,乳
+PartnerDuty_MinceMeat_DutyName,Mince,ミンチ
 PartnerDuty_NettleFiber_DutyName,Process,
-PartnerDuty_PoundSinew_DutyName,Pound,
-PartnerDuty_PressCheese_DutyName,Press,
+PartnerDuty_PoundSinew_DutyName,Pound,打ちほぐす
+PartnerDuty_PressCheese_DutyName,Press,圧する
 PartnerDuty_ReturnHome_DutyName,Return Home,
 PartnerDuty_SeekDrink_DutyName,Seek Drink,
 PartnerDuty_SeekFire_DutyName,Seek Fire,
 PartnerDuty_SinewCord_DutyName,Make Cord,
-PartnerDuty_SkinLarge_DutyName,Skin,
-PartnerDuty_SkinMedium_DutyName,Skin,
-PartnerDuty_SkinVeryLarge_DutyName,Skin,
-PartnerDuty_Sleep_DutyName,Sleep,
-PartnerDuty_SleepRough_DutyName,Sleep,
+PartnerDuty_SkinLarge_DutyName,Skin,皮を剥ぐ
+PartnerDuty_SkinMedium_DutyName,Skin,皮を剥ぐ
+PartnerDuty_SkinVeryLarge_DutyName,Skin,皮を剥ぐ
+PartnerDuty_Sleep_DutyName,Sleep,寝る
+PartnerDuty_SleepRough_DutyName,Sleep,寝る
 PartnerDuty_Spearfish_DutyName,Spear Fish,
 PartnerDuty_StoreFood_DutyName,Store Food,
 PartnerDuty_WarmUp_DutyName,Warm Up,
-NPCPkTab0_Internal_TabName,Internal,
+NPCPkTab0_Internal_TabName,Internal,体内
 NPCPkTab1_Body_TabName,Body,
 NPCPkTab2_Face_TabName,Face,
 NPCPkTab3_Personality_TabName,Personality,
-NPCPkTab4_Knowledge_TabName,Knowledge,
-NPCPkTab4_Situational_TabName,Situational,
+NPCPkTab4_Knowledge_TabName,Knowledge,学識
+NPCPkTab4_Situational_TabName,Situational,状況依存
 PartnerPreset_Man_AgentName,The Untamed,
 PartnerPreset_ManCraftsman_AgentName,The Craftsman,
 PartnerPreset_ManCraftsman_AgentDescription,"Steady and dependable, he finds purpose in building, maintaining and providing, quietly ensuring those he loves never face hardship alone.",
@@ -25733,10 +25733,10 @@ PartnerPreset_WomanMuse_AgentName,The Muse,
 PartnerPreset_WomanMuse_AgentDescription,"Graceful and self-assured, she inspires admiration and awakens the desire to become better, though winning her heart is never taken for granted.",
 PartnerPreset_WomanSpirited_AgentName,The Spirited One,
 PartnerPreset_WomanSpirited_AgentDescription,"Bold and full of life, she meets every challenge with laughter and curiosity, encouraging others to embrace the world with the same boundless enthusiasm.",
-PartnerPerkGroup_Appetite_GroupName,Appetite,
+PartnerPerkGroup_Appetite_GroupName,Appetite,食欲
 PartnerPerkGroup_Bust_GroupName,Bust,
-PartnerPerkGroup_Connection_GroupName,Connection,
-PartnerPerkGroup_Estrogen_GroupName,Estrogen,
+PartnerPerkGroup_Connection_GroupName,Connection,絆
+PartnerPerkGroup_Estrogen_GroupName,Estrogen,女性ホルモン
 PartnerPerkGroup_EyeColour_GroupName,Eye Colour,
 PartnerPerkGroup_EyeDistance_GroupName,Eye Distance,
 PartnerPerkGroup_EyeSize_GroupName,Eye Size,
@@ -25747,7 +25747,7 @@ PartnerPerkGroup_HairColour_GroupName,Hair Colour,
 PartnerPerkGroup_HairLength_GroupName,Hair Length,
 PartnerPerkGroup_HairType_GroupName,Hair Type,
 PartnerPerkGroup_Height_GroupName,Height,
-PartnerPerkGroup_ImmuneSystem_GroupName,Immune System,
+PartnerPerkGroup_ImmuneSystem_GroupName,Immune System,免疫系
 PartnerPerkGroup_LifeOutlook_GroupName,Life Outlook,
 PartnerPerkGroup_Metabolism_GroupName,Metabolism,
 PartnerPerkGroup_NoseSize_GroupName,Nose Size,
@@ -25755,10 +25755,10 @@ PartnerPerkGroup_NoseType_GroupName,Nose Type,
 PartnerPerkGroup_SexualOrgans_GroupName,Sexual Organs,
 PartnerPerkGroup_SexualPreference_GroupName,Sexual Preference,
 PartnerPerkGroup_SkinColour_GroupName,Hair Type,
-PartnerPerkGroup_Testosterone_GroupName,Testosterone,
-PartnerPerkGroup_Trust_GroupName,Trust,
-PartnerPerkGroup_Weight_GroupName,Weight,
-PartnerPerk_BasicTools_PerkName,Basic Tools,
+PartnerPerkGroup_Testosterone_GroupName,Testosterone,男性ホルモン
+PartnerPerkGroup_Trust_GroupName,Trust,信頼
+PartnerPerkGroup_Weight_GroupName,Weight,体重
+PartnerPerk_BasicTools_PerkName,Basic Tools,基本的なツール
 PartnerPerk_BasicTools_PerkDescription,Makes your partner start with a flint axe and knife.,
 PartnerPerk_BeardFull_PerkName,Full Beard,
 PartnerPerk_BeardFull_PerkDescription,Makes your partner start with a full manly beard.,
@@ -25798,9 +25798,9 @@ PartnerPerk_FeaturesFine_PerkName,Fine Features,
 PartnerPerk_FeaturesFine_PerkDescription,"Increases facial harmony, improving general attractiveness.",
 PartnerPerk_FeaturesIrregular_PerkName,Irregular Features,
 PartnerPerk_FeaturesIrregular_PerkDescription,"Decreases facial harmony, lowering general attractiveness.",
-PartnerPerk_FocusSingular_PerkName,Singular Focus,
+PartnerPerk_FocusSingular_PerkName,Singular Focus,一点集中
 PartnerPerk_FocusSingular_PerkDescription,Increases preference for methodical tasks while decreasing it for creative ones.,
-PartnerPerk_FocusWandering_PerkName,Wandering Focus,
+PartnerPerk_FocusWandering_PerkName,Wandering Focus,ぼんやり
 PartnerPerk_FocusWandering_PerkDescription,Decreases preference for methodical tasks while increasing it for creative ones.,
 PartnerPerk_Freckles_PerkName,Freckles,
 PartnerPerk_Freckles_PerkDescription,Makes your partner start with freckles.,
@@ -25844,35 +25844,35 @@ PartnerPerk_HairWavy_PerkName,Wavy Hair,
 PartnerPerk_HairWavy_PerkDescription,Makes your partner start with wavy hair.,
 PartnerPerk_HighAppetite_PerkName,High Apetite,
 PartnerPerk_HighAppetite_PerkDescription,"Inceases hunger faster, making eating easier so it's harder to become malnourished.",
-PartnerPerk_HighEstrogen_PerkName,High Estrogen,
-PartnerPerk_HighEstrogen_PerkDescription,"Increases empathy and female physical traits such as breast size and hip width, increasing overall femininity.",
+PartnerPerk_HighEstrogen_PerkName,High Estrogen,女性ホルモン（高）
+PartnerPerk_HighEstrogen_PerkDescription,"Increases empathy and female physical traits such as breast size and hip width, increasing overall femininity.",共感性を高め、胸の大きさや腰幅といった女性的な身体的特徴を強め、全体的な女性らしさを増す。
 PartnerPerk_HighMetabolism_PerkName,High Metabolism,
 PartnerPerk_HighMetabolism_PerkDescription,Makes them burn through their fat reserves faster and have a higher body temperature.,
-PartnerPerk_HighTestosterone_PerkName,High Testosterone,
-PartnerPerk_HighTestosterone_PerkDescription,"Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass.",
-PartnerPerk_ImmuneSystemStrong_PerkName,Strong Immune System,
+PartnerPerk_HighTestosterone_PerkName,High Testosterone,男性ホルモン（高）
+PartnerPerk_HighTestosterone_PerkDescription,"Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass.",男性ホルモンが多い。積極性が増す。体毛が多く、身長が高く、筋肉量が多い。
+PartnerPerk_ImmuneSystemStrong_PerkName,Strong Immune System,強い免疫系
 PartnerPerk_ImmuneSystemStrong_PerkDescription,Increases resistance to disease and infection,
-PartnerPerk_ImmuneSystemWeak_PerkName,Weak Immune System,
+PartnerPerk_ImmuneSystemWeak_PerkName,Weak Immune System,弱い免疫系
 PartnerPerk_ImmuneSystemWeak_PerkDescription,Decreases resistance to disease and infection,
-PartnerPerk_KnowledgeArcher_PerkName,Archer,
+PartnerPerk_KnowledgeArcher_PerkName,Archer,弓術士
 PartnerPerk_KnowledgeAwakened_PerkName,Awakened\n,
 PartnerPerk_KnowledgeButcher_PerkName,Butcher,
-PartnerPerk_KnowledgeClimber_PerkName,Climber,
-PartnerPerk_KnowledgeCook_PerkName,Cook,
-PartnerPerk_KnowledgeFarmer_PerkName,Farmer,
-PartnerPerk_KnowledgeFisher_PerkName,Fisher,
-PartnerPerk_KnowledgeKnapper_PerkName,Knapper,
-PartnerPerk_KnowledgeLeatherworker_PerkName,Leatherworker,
+PartnerPerk_KnowledgeClimber_PerkName,Climber,登山家
+PartnerPerk_KnowledgeCook_PerkName,Cook,料理する
+PartnerPerk_KnowledgeFarmer_PerkName,Farmer,農家
+PartnerPerk_KnowledgeFisher_PerkName,Fisher,漁師
+PartnerPerk_KnowledgeKnapper_PerkName,Knapper,石工
+PartnerPerk_KnowledgeLeatherworker_PerkName,Leatherworker,革細工師
 PartnerPerk_KnowledgeMusician_PerkName,Musician,
-PartnerPerk_KnowledgeScribe_PerkName,Scribe,
+PartnerPerk_KnowledgeScribe_PerkName,Scribe,書記
 PartnerPerk_KnowledgeSmith_PerkName,Smith,
 PartnerPerk_KnowledgeSpearFighter_PerkName,Spear Fighter,
-PartnerPerk_KnowledgeStalker_PerkName,Stalker,
-PartnerPerk_KnowledgeTracker_PerkName,Tracker,
-PartnerPerk_KnowledgeTrapper_PerkName,Trapper,
-PartnerPerk_KnowledgeWeaver_PerkName,Weaver,
-PartnerPerk_KnowledgeWoodworker_PerkName,Woodworker,
-PartnerPerk_LikesCreative_PerkName,Creative,
+PartnerPerk_KnowledgeStalker_PerkName,Stalker,忍者
+PartnerPerk_KnowledgeTracker_PerkName,Tracker,追跡者
+PartnerPerk_KnowledgeTrapper_PerkName,Trapper,罠師
+PartnerPerk_KnowledgeWeaver_PerkName,Weaver,裁縫士
+PartnerPerk_KnowledgeWoodworker_PerkName,Woodworker,木工職人
+PartnerPerk_LikesCreative_PerkName,Creative,クリエイティブ
 PartnerPerk_LikesCreative_PerkDescription,"Likes performing creative tasks, such as carving, playing music or working clay.",
 PartnerPerk_LikesFemaleTraits_PerkName,Likes Female Traits,
 PartnerPerk_LikesFemaleTraits_PerkDescription,Makes your partner be attracted to female traits.,
@@ -25888,12 +25888,12 @@ PartnerPerk_LikesPhysical_PerkName,Physical,
 PartnerPerk_LikesPhysical_PerkDescription,"Likes performing physical tasks, such as felling trees, chopping wood or smithing.",
 PartnerPerk_LowAppetite_PerkName,Low Apetite,
 PartnerPerk_LowAppetite_PerkDescription,"Delays hunger, making it harder to eat and easier to get malnourished.",
-PartnerPerk_LowEstrogen_PerkName,Low Estrogen,
-PartnerPerk_LowEstrogen_PerkDescription,"Reduces female physical traits such as breast size and hip width, decreasing overall femininity.",
+PartnerPerk_LowEstrogen_PerkName,Low Estrogen,女性ホルモン（低）
+PartnerPerk_LowEstrogen_PerkDescription,"Reduces female physical traits such as breast size and hip width, decreasing overall femininity.",女性ホルモンが少ない。積極性が増す。ヒップや胸のサイズが小さくなり女性らしさが減る。
 PartnerPerk_LowMetabolism_PerkName,Low Metabolism,
 PartnerPerk_LowMetabolism_PerkDescription,Makes them burn through their fat reserves slower and have a lower body temperature.,
-PartnerPerk_LowTestosterone_PerkName,Low Testosterone,
-PartnerPerk_LowTestosterone_PerkDescription,"Reduces male physical traits, leading to a more youthful appearance, smaller stature, and less muscle mass.",
+PartnerPerk_LowTestosterone_PerkName,Low Testosterone,男性ホルモン（低）
+PartnerPerk_LowTestosterone_PerkDescription,"Reduces male physical traits, leading to a more youthful appearance, smaller stature, and less muscle mass.",男性ホルモンが少ない。見た目が若々しく、身長が小さく、筋肉量が少ない。
 PartnerPerk_NoseDownturned_PerkName,Downturned Nose,
 PartnerPerk_NoseDownturned_PerkDescription,Makes your partner start with a downturned nose.,
 PartnerPerk_NoseHooked_PerkName,Hooked Nose,
@@ -25904,17 +25904,17 @@ PartnerPerk_NoseSmall_PerkName,Small Nose,
 PartnerPerk_NoseSmall_PerkDescription,Makes your partner start with a small nose.,
 PartnerPerk_NoseUpturned_PerkName,Upturned Nose,
 PartnerPerk_NoseUpturned_PerkDescription,Makes your partner start with an upturned nose.,
-PartnerPerk_OrgansFemale_PerkName,Female Organs,
-PartnerPerk_OrgansFemale_PerkDescription,Boosts estrogen levels and confers the capacity to conceive and bear children.,
-PartnerPerk_OrgansMale_PerkName,Male Organs,
-PartnerPerk_OrgansMale_PerkDescription,Boosts testosterone levels and confers the ability to impregnate.,
+PartnerPerk_OrgansFemale_PerkName,Female Organs,女性
+PartnerPerk_OrgansFemale_PerkDescription,Boosts estrogen levels and confers the capacity to conceive and bear children.,女性ホルモンを増やし、妊娠できるようになる。
+PartnerPerk_OrgansMale_PerkName,Male Organs,男性
+PartnerPerk_OrgansMale_PerkDescription,Boosts testosterone levels and confers the ability to impregnate.,男性ホルモンを増やし、妊娠させられるようになる。
 PartnerPerk_PersonalityAffectionate_PerkName,Affectionate,
 PartnerPerk_PersonalityAffectionate_PerkDescription,Gains affection more quickly and finds it easier to be grateful.,
-PartnerPerk_PersonalityAnxious_PerkName,Anxious,
+PartnerPerk_PersonalityAnxious_PerkName,Anxious,不安
 PartnerPerk_PersonalityAnxious_PerkDescription,Gains stress more easily and has more difficulty trusting.,
 PartnerPerk_PersonalityCalm_PerkName,Calm,
 PartnerPerk_PersonalityCalm_PerkDescription,Finds it harder to get stressed.,
-PartnerPerk_PersonalityCold_PerkName,Cold,
+PartnerPerk_PersonalityCold_PerkName,Cold,寒い
 PartnerPerk_PersonalityCold_PerkDescription,Gains affection more slowly and finds it harder to be grateful.,
 PartnerPerk_PersonalityConfident_PerkName,Confident,
 PartnerPerk_PersonalityConfident_PerkDescription,Appears more attractive and assertive and recovers from awkwardness more quickly.,
@@ -25940,7 +25940,7 @@ PartnerPerk_PersonalityInterdependent_PerkName,Interdependent,
 PartnerPerk_PersonalityInterdependent_PerkDescription,Loses connection faster and relies more on others for emotional stability.,
 PartnerPerk_PersonalityIntrovert_PerkName,Introvert,
 PartnerPerk_PersonalityIntrovert_PerkDescription,Doesn't need to socialize as much.,
-PartnerPerk_PersonalityMeatLover_PerkName,Meat Lover,
+PartnerPerk_PersonalityMeatLover_PerkName,Meat Lover,肉大好き
 PartnerPerk_PersonalityMeatLover_PerkDescription,Gets additional enjoyment from eating meat.,
 PartnerPerk_PersonalityOptimist_PerkName,Optimist,
 PartnerPerk_PersonalityOptimist_PerkDescription,Finds it harder to be sad and easier to be grateful.,
@@ -25952,41 +25952,41 @@ PartnerPerk_PersonalityRestless_PerkName,Restless,
 PartnerPerk_PersonalityRestless_PerkDescription,"Feels more comfortable with physical, rather than methodical activities.",
 PartnerPerk_PersonalityRomantic_PerkName,Romantic,
 PartnerPerk_PersonalityRomantic_PerkDescription,Finds it easier to see beauty.,
-PartnerPerk_PersonalitySaladLover_PerkName,Salad Lover,
+PartnerPerk_PersonalitySaladLover_PerkName,Salad Lover,サラダ大好き
 PartnerPerk_PersonalitySaladLover_PerkDescription,Gets additional enjoyment from eating vegetables.,
-PartnerPerk_PersonalitySweetTooth_PerkName,Sweet Tooth,
+PartnerPerk_PersonalitySweetTooth_PerkName,Sweet Tooth,甘党
 PartnerPerk_PersonalitySweetTooth_PerkDescription,Gets additional enjoyment from eating sweet food.,
-PartnerPerk_PersonalityTrusting_PerkName,Trusting,
+PartnerPerk_PersonalityTrusting_PerkName,Trusting,純粋
 PartnerPerk_PersonalityTrusting_PerkDescription,Gains trust more quickly and is slower to become suspicious of others.,
-PartnerPerk_Short_PerkName,Short Stature,
+PartnerPerk_Short_PerkName,Short Stature,低身長
 PartnerPerk_Short_PerkDescription,"Decreases size and combat reach, decreases caloric needs and enhances stealth capabilities.",
-PartnerPerk_SkinDark_PerkName,Dark Skin,
+PartnerPerk_SkinDark_PerkName,Dark Skin,黒い肌
 PartnerPerk_SkinDark_PerkDescription,Makes your partner start with dark skin.,
 PartnerPerk_SkinFair_PerkName,Fair Skin,
 PartnerPerk_SkinFair_PerkDescription,Makes your partner start with fair skin.,
 PartnerPerk_SkinMedium_PerkName,Medium Skin,
 PartnerPerk_SkinMedium_PerkDescription,Makes your partner start with medium skin.,
-PartnerPerk_SkinVeryDark_PerkName,Very Dark Skin,
+PartnerPerk_SkinVeryDark_PerkName,Very Dark Skin,かなり黒い肌
 PartnerPerk_SkinVeryDark_PerkDescription,Makes your partner start with very dark skin.,
 PartnerPerk_SkinVeryFair_PerkName,Very Fair Skin,
 PartnerPerk_SkinVeryFair_PerkDescription,Makes your partner start with very fair skin.,
-PartnerPerk_Tall_PerkName,Tall Stature,
+PartnerPerk_Tall_PerkName,Tall Stature,高身長
 PartnerPerk_Tall_PerkDescription,"Increases size and combat reach, reduces stealth, and raises caloric needs.",
-PartnerPerk_VeryShort_PerkName,Very Short Stature,
+PartnerPerk_VeryShort_PerkName,Very Short Stature,かなり低身長
 PartnerPerk_VeryShort_PerkDescription,"Dramatically decreases size and combat reach, decreases caloric needs and enhances stealth capabilities.",
-PartnerPerk_VeryTall_PerkName,Very Tall Stature,
+PartnerPerk_VeryTall_PerkName,Very Tall Stature,かなり高身長
 PartnerPerk_VeryTall_PerkDescription,"Dramatically increases size and combat reach, reduces stealth, and raises caloric needs.",
 PartnerPerk_WeightEmaciated_PerkName,Dangerously Low Weight,
 PartnerPerk_WeightEmaciated_PerkDescription,"Dangerously reduces body weight, compromising immune system, energy levels and insulation.",
-PartnerPerk_WeightFat_PerkName,High Weight,
+PartnerPerk_WeightFat_PerkName,High Weight,ぽっちゃり
 PartnerPerk_WeightFat_PerkDescription,"Increase body weight, slightly boosting fat reserves and insulation while reducing stamina by a small amount.",
 PartnerPerk_WeightOverweight_PerkName,Moderately High Weight,
 PartnerPerk_WeightOverweight_PerkDescription,"Increase body weight, slightly boosting fat reserves and insulation while reducing stamina by a small amount.",
-PartnerPerk_WeightThin_PerkName,Low Weight,
+PartnerPerk_WeightThin_PerkName,Low Weight,体重が軽い
 PartnerPerk_WeightThin_PerkDescription,"Reduces body weight, lowering fat reserves and slightly impairing immune system and thermal insulation.",
-PartnerPerk_WeightVeryFat_PerkName,Very High Weight,
+PartnerPerk_WeightVeryFat_PerkName,Very High Weight,肥満
 PartnerPerk_WeightVeryFat_PerkDescription,"Increase body weight, slightly boosting fat reserves and insulation while reducing stamina by a small amount.",
-PartnerPerk_WeightVeryThin_PerkName,Very Low Weight,
+PartnerPerk_WeightVeryThin_PerkName,Very Low Weight,痩せ過ぎ
 PartnerPerk_WeightVeryThin_PerkDescription,"Reduces body weight, lowering fat reserves and slightly impairing immune system and thermal insulation.",
 PartnerPerk_WeightWellFed_PerkName,Slightly High Weight,
 PartnerPerk_WeightWellFed_PerkDescription,"Increase body weight, slightly boosting fat reserves and insulation while reducing stamina by a small amount.",
@@ -26062,11 +26062,11 @@ Partner_EyeType_Statuses[68].GameName,Has large dark brown eyes.,
 Partner_EyeType_Statuses[69].GameName,Has small wide-set dark brown eyes.,
 Partner_EyeType_Statuses[70].GameName,Has wide-set dark brown eyes.,
 Partner_EyeType_Statuses[71].GameName,Has large wide-set dark brown eyes.,
-Partner_FemaleTraits_Statuses[0].GameName,Very Pronounced,
-Partner_FemaleTraits_Statuses[1].GameName,Pronounced,
-Partner_FemaleTraits_Statuses[2].GameName,Balanced,
-Partner_FemaleTraits_Statuses[3].GameName,Subtle,
-Partner_FemaleTraits_Statuses[4].GameName,Minimal,
+Partner_FemaleTraits_Statuses[0].GameName,Very Pronounced,最大
+Partner_FemaleTraits_Statuses[1].GameName,Pronounced,多い
+Partner_FemaleTraits_Statuses[2].GameName,Balanced,バランス型
+Partner_FemaleTraits_Statuses[3].GameName,Subtle,少ない
+Partner_FemaleTraits_Statuses[4].GameName,Minimal,最少
 Partner_Freckles_Statuses[0].GameName,Has freckles.,
 Partner_HairColour_Statuses[0].GameName,Has white hair.,
 Partner_HairColour_Statuses[1].GameName,Has platinum blonde hair.,
@@ -26125,11 +26125,11 @@ Partner_LikesPhysicalTasks_Statuses[0].GameName,Really Likes,
 Partner_LikesPhysicalTasks_Statuses[1].GameName,Likes,
 Partner_LikesPhysicalTasks_Statuses[2].GameName,Dislikes,
 Partner_LikesPhysicalTasks_Statuses[3].GameName,Really Dislikes,
-Partner_MaleTraits_Statuses[0].GameName,Very Pronounced,
-Partner_MaleTraits_Statuses[1].GameName,Pronounced,
-Partner_MaleTraits_Statuses[2].GameName,Balanced,
-Partner_MaleTraits_Statuses[3].GameName,Subtle,
-Partner_MaleTraits_Statuses[4].GameName,Minimal,
+Partner_MaleTraits_Statuses[0].GameName,Very Pronounced,最大
+Partner_MaleTraits_Statuses[1].GameName,Pronounced,多い
+Partner_MaleTraits_Statuses[2].GameName,Balanced,バランス型
+Partner_MaleTraits_Statuses[3].GameName,Subtle,少ない
+Partner_MaleTraits_Statuses[4].GameName,Minimal,最少
 Partner_SexualOrgans_Statuses[0].GameName,Female,
 Partner_SexualOrgans_Statuses[1].GameName,Male,
 Partner_SexualOrgans_Statuses[2].GameName,Both,
@@ -26144,10 +26144,10 @@ Partner_Affection_Statuses[2].GameName,Looks neutral towards you.,
 Partner_Affection_Statuses[3].GameName,Looks cold towards you.,
 Partner_Affection_Statuses[4].GameName,Looks hostile towards you.,
 Partner_Affection_Statuses[5].GameName,Looks hateful towards you.,
-Partner_Appetite_Statuses[0].GameName,Small,
+Partner_Appetite_Statuses[0].GameName,Small,小さい
 Partner_Appetite_Statuses[1].GameName,Medium,
-Partner_Appetite_Statuses[2].GameName,Large,
-Partner_Appetite_Statuses[3].GameName,Huge,
+Partner_Appetite_Statuses[2].GameName,Large,大きい
+Partner_Appetite_Statuses[3].GameName,Huge,かなり大きい
 Partner_AttractionToPlayer_Statuses[0].GameName,Looks very attracted to you.,
 Partner_AttractionToPlayer_Statuses[1].GameName,Looks attracted to you.,
 Partner_AttractionToPlayer_Statuses[2].GameName,Doesn't look particularly attracted to you.,
@@ -26187,10 +26187,10 @@ Partner_Energy_Statuses[0].GameName,Looks exhausted.,
 Partner_Energy_Statuses[1].GameName,Looks very tired.,
 Partner_Energy_Statuses[2].GameName,Looks tired.,
 Partner_Energy_Statuses[3].GameName,Looks full of energy.,
-Partner_Estrogen_Statuses[0].GameName,Minimal Estrogen,
-Partner_Estrogen_Statuses[1].GameName,Low Estrogen,
-Partner_Estrogen_Statuses[2].GameName,Moderate Estrogen,
-Partner_Estrogen_Statuses[3].GameName,High Estrogen,
+Partner_Estrogen_Statuses[0].GameName,Minimal Estrogen,女性ホルモン（最低）
+Partner_Estrogen_Statuses[1].GameName,Low Estrogen,女性ホルモン（低）
+Partner_Estrogen_Statuses[2].GameName,Moderate Estrogen,女性ホルモン（中）
+Partner_Estrogen_Statuses[3].GameName,High Estrogen,女性ホルモン（高）
 Partner_FacialHarmony_Statuses[0].GameName,Has an asymmetric face.,
 Partner_FacialHarmony_Statuses[1].GameName,Has an uneven face.,
 Partner_FacialHarmony_Statuses[2].GameName,Has a harmonious face.,
@@ -26228,10 +26228,10 @@ Partner_Favour_Statuses[5].GameName,Looks very resentful.,
 Partner_FeetSize_Statuses[0].GameName,Has small feet.,
 Partner_FeetSize_Statuses[1].GameName,Has medium-sized feet.,
 Partner_FeetSize_Statuses[2].GameName,Has large feet.,
-Partner_Filth_Statuses[0].GameName,Small,
+Partner_Filth_Statuses[0].GameName,Small,小さい
 Partner_Filth_Statuses[1].GameName,Medium,
-Partner_Filth_Statuses[2].GameName,Large,
-Partner_Filth_Statuses[3].GameName,Huge,
+Partner_Filth_Statuses[2].GameName,Large,大きい
+Partner_Filth_Statuses[3].GameName,Huge,かなり大きい
 Partner_Gratification_Statuses[0].GameName,Looks very content.,
 Partner_Gratification_Statuses[1].GameName,Looks content.,
 Partner_Gratification_Statuses[2].GameName,Looks dissatisfied.,
@@ -26248,11 +26248,11 @@ Partner_Infatuation_Statuses[1].GameName,Looks Infatuated.,
 Partner_Infatuation_Statuses[2].GameName,Looks very infatuated.,
 Partner_Infatuation_Statuses[3].GameName,Looks Infatuated.,
 Partner_Infatuation_Statuses[4].GameName,-,
-Partner_Intestines_Statuses[0].GameName,Digestion,
-Partner_Intestines_Statuses[1].GameName,Digestion,
-Partner_Intestines_Statuses[2].GameName,Digestion,
-Partner_Intestines_Statuses[3].GameName,Digestion,
-Partner_Intestines_Statuses[4].GameName,Digestion,
+Partner_Intestines_Statuses[0].GameName,Digestion,消化
+Partner_Intestines_Statuses[1].GameName,Digestion,消化
+Partner_Intestines_Statuses[2].GameName,Digestion,消化
+Partner_Intestines_Statuses[3].GameName,Digestion,消化
+Partner_Intestines_Statuses[4].GameName,Digestion,消化
 Partner_JawSize_Statuses[0].GameName,Has a small jaw.,
 Partner_JawSize_Statuses[1].GameName,Has a medium-sized jaw.,
 Partner_JawSize_Statuses[2].GameName,Has a large jaw.,
@@ -26262,7 +26262,7 @@ Partner_Morale_Statuses[2].GameName,Looks sad.,
 Partner_Morale_Statuses[3].GameName,Looks very sad.,
 Partner_Neoteny_Statuses[0].GameName,Very High,
 Partner_Neoteny_Statuses[1].GameName,High,
-Partner_Neoteny_Statuses[2].GameName,Moderate,
+Partner_Neoteny_Statuses[2].GameName,Moderate,普通
 Partner_Neoteny_Statuses[3].GameName,Low,
 Partner_Neoteny_Statuses[4].GameName,Very Low,
 Partner_NoseType_Statuses[0].GameName,Has a small upturned nose.,
@@ -26286,27 +26286,27 @@ Partner_PerceivedAttractiveness_Statuses[2].GameName,Looks attractive to you.,
 Partner_PerceivedAttractiveness_Statuses[3].GameName,Doesn't look particularly attractive to you.,
 Partner_PerceivedAttractiveness_Statuses[4].GameName,Looks unnatractive to you.,
 Partner_PerceivedAttractiveness_Statuses[5].GameName,Looks very unnatractive to you.,
-Partner_PerceivedTemperature_Statuses[0].GameName,Scorching Hot,
-Partner_PerceivedTemperature_Statuses[1].GameName,Extremely Hot,
-Partner_PerceivedTemperature_Statuses[2].GameName,Very Hot,
-Partner_PerceivedTemperature_Statuses[3].GameName,Hot,
-Partner_PerceivedTemperature_Statuses[4].GameName,Comfortable,
-Partner_PerceivedTemperature_Statuses[5].GameName,Chilled,
-Partner_PerceivedTemperature_Statuses[6].GameName,Chilled,
-Partner_PerceivedTemperature_Statuses[7].GameName,Chilled,
-Partner_PerceivedTemperature_Statuses[8].GameName,Cold,
-Partner_PerceivedTemperature_Statuses[9].GameName,Cold,
-Partner_PerceivedTemperature_Statuses[10].GameName,Cold,
-Partner_PerceivedTemperature_Statuses[11].GameName,Very Cold,
-Partner_PerceivedTemperature_Statuses[12].GameName,Very Cold,
-Partner_PerceivedTemperature_Statuses[13].GameName,Very Cold,
-Partner_PerceivedTemperature_Statuses[14].GameName,Extremely Cold,
-Partner_PerceivedTemperature_Statuses[15].GameName,Extremely Cold,
-Partner_PerceivedTemperature_Statuses[16].GameName,Extremely Cold,
-Partner_PerceivedTemperature_Statuses[17].GameName,Freezing,
-Partner_PerceivedTemperature_Statuses[18].GameName,Freezing,
-Partner_PerceivedTemperature_Statuses[19].GameName,Freezing,
-Partner_PerceivedTemperature_Statuses[20].GameName,Extremely Freezing,
+Partner_PerceivedTemperature_Statuses[0].GameName,Scorching Hot,灼熱の暑さ
+Partner_PerceivedTemperature_Statuses[1].GameName,Extremely Hot,熱すぎる！
+Partner_PerceivedTemperature_Statuses[2].GameName,Very Hot,すごく熱い
+Partner_PerceivedTemperature_Statuses[3].GameName,Hot,暑い
+Partner_PerceivedTemperature_Statuses[4].GameName,Comfortable,快適
+Partner_PerceivedTemperature_Statuses[5].GameName,Chilled,涼しい
+Partner_PerceivedTemperature_Statuses[6].GameName,Chilled,涼しい
+Partner_PerceivedTemperature_Statuses[7].GameName,Chilled,涼しい
+Partner_PerceivedTemperature_Statuses[8].GameName,Cold,寒い
+Partner_PerceivedTemperature_Statuses[9].GameName,Cold,寒い
+Partner_PerceivedTemperature_Statuses[10].GameName,Cold,寒い
+Partner_PerceivedTemperature_Statuses[11].GameName,Very Cold,かなり寒い
+Partner_PerceivedTemperature_Statuses[12].GameName,Very Cold,かなり寒い
+Partner_PerceivedTemperature_Statuses[13].GameName,Very Cold,かなり寒い
+Partner_PerceivedTemperature_Statuses[14].GameName,Extremely Cold,相当寒い
+Partner_PerceivedTemperature_Statuses[15].GameName,Extremely Cold,相当寒い
+Partner_PerceivedTemperature_Statuses[16].GameName,Extremely Cold,相当寒い
+Partner_PerceivedTemperature_Statuses[17].GameName,Freezing,寒すぎる
+Partner_PerceivedTemperature_Statuses[18].GameName,Freezing,寒すぎる
+Partner_PerceivedTemperature_Statuses[19].GameName,Freezing,寒すぎる
+Partner_PerceivedTemperature_Statuses[20].GameName,Extremely Freezing,極寒
 Partner_Satiation_Statuses[0].GameName,Looks full.,
 Partner_Satiation_Statuses[1].GameName,Doesn't look hungry.,
 Partner_Satiation_Statuses[2].GameName,Looks hungry.,
@@ -26339,11 +26339,11 @@ Partner_Stress_Statuses[0].GameName,Looks relaxed.,
 Partner_Stress_Statuses[1].GameName,Looks tense.,
 Partner_Stress_Statuses[2].GameName,Looks stressed.,
 Partner_Stress_Statuses[3].GameName,Looks very stressed.,
-Partner_Testosterone_Statuses[0].GameName,Minimal Testosterone,
-Partner_Testosterone_Statuses[1].GameName,Low Testosterone,
-Partner_Testosterone_Statuses[2].GameName,Moderate Testosterone,
-Partner_Testosterone_Statuses[3].GameName,High Testosterone,
-Partner_Thirst_Statuses[0].GameName,Hydrated,
+Partner_Testosterone_Statuses[0].GameName,Minimal Testosterone,男性ホルモン（最低）
+Partner_Testosterone_Statuses[1].GameName,Low Testosterone,男性ホルモン（低）
+Partner_Testosterone_Statuses[2].GameName,Moderate Testosterone,男性ホルモン（中）
+Partner_Testosterone_Statuses[3].GameName,High Testosterone,男性ホルモン（高）
+Partner_Thirst_Statuses[0].GameName,Hydrated,水分が足りてる
 Partner_Thirst_Statuses[1].GameName,Looks thirsty.,
 Partner_Thirst_Statuses[2].GameName,Looks very thirsty.,
 Partner_Trust_Statuses[0].GameName,Looks really trusting.,
@@ -26353,7 +26353,7 @@ Partner_Trust_Statuses[3].GameName,Looks slightly guarded.,
 Partner_Trust_Statuses[4].GameName,Looks guarded.,
 Partner_Trust_Statuses[5].GameName,Looks very guarded.,
 Partner_Trustfulness_Statuses[0].GameName,Very Trusting,
-Partner_Trustfulness_Statuses[1].GameName,Trusting,
+Partner_Trustfulness_Statuses[1].GameName,Trusting,純粋
 Partner_Trustfulness_Statuses[2].GameName,Untrusting,
 Partner_Trustfulness_Statuses[3].GameName,Very Untrusting,
 Partner_VoiceRegister_Statuses[0].GameName,Has a soprano voice.,
@@ -26374,15 +26374,15 @@ Partner_Weight_Statuses[6].GameName,Looks very thin.,
 Partner_Weight_Statuses[7].GameName,Looks emaciated.,
 Partner_Weight_Statuses[8].GameName,Looks dead of starvation.,
 Partner_Weight_Statuses[8].DeleteAgentMessage.Text,Your partner has died of a starvation.,
-Partner_Wellbeing_Statuses[0].GameName,Great Wellbeing,
-Partner_Wellbeing_Statuses[1].GameName,Good Wellbeing,
-Partner_Wellbeing_Statuses[2].GameName,Average Wellbeing,
-Partner_Wellbeing_Statuses[3].GameName,Bad Wellbeing,
-Partner_Wellbeing_Statuses[4].GameName,Poor Wellbeing,
+Partner_Wellbeing_Statuses[0].GameName,Great Wellbeing,幸福度（最高）
+Partner_Wellbeing_Statuses[1].GameName,Good Wellbeing,幸福度（高）
+Partner_Wellbeing_Statuses[2].GameName,Average Wellbeing,幸福度（中）
+Partner_Wellbeing_Statuses[3].GameName,Bad Wellbeing,幸福度（低）
+Partner_Wellbeing_Statuses[4].GameName,Poor Wellbeing,幸福度（最低）
 Agent_Partner_AgentName,Partner,
 Agent_Partner_Interactions[0].ButtonName,Directions,
-Agent_Partner_Interactions[1].ButtonName,Talk,
-Agent_PartnerTest_Interactions[0].ButtonName,Talk,
+Agent_Partner_Interactions[1].ButtonName,Talk,話す
+Agent_PartnerTest_Interactions[0].ButtonName,Talk,話す
 HeatherStemsFresh_FuelCapacity.OnZero.ActionDescription,Heather Stems Dried.,
 BoarFreeFemale_DismantleActions[1].ActionName,Release to the wild,
 BoarFreeMale_DismantleActions[1].ActionName,Release to the wild,
@@ -26396,38 +26396,38 @@ ChickenFreeMale_DismantleActions[2].ActionName,Release to the wild,
 PartridgeFreeChick_DismantleActions[2].ActionName,Release to the wild,
 PartridgeFreeFemale_DismantleActions[2].ActionName,Release to the wild,
 PartridgeFreeMale_DismantleActions[2].ActionName,Release to the wild,
-MeatStomachBoiled_SpecialDurability4.CardStatName,Boil,
-FishScraps_SpecialDurability4.CardStatName,Boil,
-FishScrapsCooked_SpecialDurability4.CardStatName,Boil,
-ToolOrWeapon_FireStrikerWithFlint_Metal_SpoilageTime.CardStatName,Beauty,
-WoodAlder_CardName,Wood,
-WoodAlder_CardDescription,"A hardwood, ideal for quality tools and construction. Useful as fuel too.",
-WoodAlder_AlternateNames[0].Name,Oak Wood,
-WoodAlder_AlternateNames[1].Name,Pine Wood,
-WoodAlder_AlternateNames[2].Name,Birch Wood,
-WoodAlder_AlternateNames[3].Name,Willow Wood,
-WoodAlder_UsageDurability.CardStatName,Fragrance,
-WoodAlder_FuelCapacity.CardStatName,Fuel,
-WoodAlder_SpecialDurability2.CardStatName,Quality,
-WoodAlder_SpecialDurability4.CardStatName,ID,
-WoodAlder_OnStatsChangeActions[0].ActionName,trasnform into a normal wood,
-TreadleLoomItem_DismantleActions[0].ActionName,Place,
+MeatStomachBoiled_SpecialDurability4.CardStatName,Boil,茹でる
+FishScraps_SpecialDurability4.CardStatName,Boil,茹でる
+FishScrapsCooked_SpecialDurability4.CardStatName,Boil,茹でる
+ToolOrWeapon_FireStrikerWithFlint_Metal_SpoilageTime.CardStatName,Beauty,美しさ
+WoodAlder_CardName,Wood,木材
+WoodAlder_CardDescription,"A hardwood, ideal for quality tools and construction. Useful as fuel too.",高品質な道具や建築に適した硬い木材。燃料としても有用。
+WoodAlder_AlternateNames[0].Name,Oak Wood,オークの木材
+WoodAlder_AlternateNames[1].Name,Pine Wood,松の木材
+WoodAlder_AlternateNames[2].Name,Birch Wood,シラカバの木材
+WoodAlder_AlternateNames[3].Name,Willow Wood,ヤナギの木材
+WoodAlder_UsageDurability.CardStatName,Fragrance,香り
+WoodAlder_FuelCapacity.CardStatName,Fuel,燃料
+WoodAlder_SpecialDurability2.CardStatName,Quality,クオリティ
+WoodAlder_SpecialDurability4.CardStatName,ID,ID
+WoodAlder_OnStatsChangeActions[0].ActionName,trasnform into a normal wood,通常の木材に変換する
+TreadleLoomItem_DismantleActions[0].ActionName,Place,置く
 TreadleLoomLocation_CardName,Treadle Loom,
 TreadleLoomLocation_CardDescription,Used for weaving cloth of different sizes more efficiently.,
-TreadleLoomLocation_DismantleActions[0].ActionName,Pick up,
-FiberBreakItem_DismantleActions[0].ActionName,Place,
+TreadleLoomLocation_DismantleActions[0].ActionName,Pick up,取る
+FiberBreakItem_DismantleActions[0].ActionName,Place,置く
 FiberBreakLocation_CardName,Fiber Break,
 FiberBreakLocation_CardDescription,Used for extracting fibers more effectively.,
-FiberBreakLocation_DismantleActions[0].ActionName,Pick up,
-SpinningWheelItem_DismantleActions[0].ActionName,Place,
+FiberBreakLocation_DismantleActions[0].ActionName,Pick up,取る
+SpinningWheelItem_DismantleActions[0].ActionName,Place,置く
 SpinningWheelLocation_CardName,Spinning Wheel,
 SpinningWheelLocation_CardDescription,Used for spinning fibers into twine or yarn much more effectively.,
-SpinningWheelLocation_DismantleActions[0].ActionName,Pick up,
+SpinningWheelLocation_DismantleActions[0].ActionName,Pick up,取る
 ToolOrWeapon_SkinningKnife_Metal_AlternateNames[5].Name,White Bronze Skinning Knife,
-LQ_Fertilizer_CardName,Fertilizer,
-LQ_Fertilizer_CardDescription,Provides nutrition for gardens.,
-LQ_Fertilizer_DismantleActions[0].ActionName,Take Out,
-LQ_Fertilizer_DismantleActions[1].ActionName,Take Out 10,
+LQ_Fertilizer_CardName,Fertilizer,肥料
+LQ_Fertilizer_CardDescription,Provides nutrition for gardens.,ガーデンの肥料として使える。
+LQ_Fertilizer_DismantleActions[0].ActionName,Take Out,取り出す
+LQ_Fertilizer_DismantleActions[1].ActionName,Take Out 10,10掴み取り出す
 BedImprovised_SpecialDurability1.CardStatName,Being Used,
 ImprovisedShelter_SpecialDurability1.CardStatName,Being Used,
 GardenPlot_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Needs 0% Care,
@@ -26459,26 +26459,26 @@ Trust_Statuses[3].GameName,Very Low,
 DislikesFemaleTraits_GameName,Dislikes Female Traits,
 DislikesFemaleTraits_Statuses[0].GameName,Very High,
 DislikesFemaleTraits_Statuses[1].GameName,High,
-DislikesFemaleTraits_Statuses[2].GameName,Moderate,
-DislikesFemaleTraits_Statuses[3].GameName,Minimal,
+DislikesFemaleTraits_Statuses[2].GameName,Moderate,普通
+DislikesFemaleTraits_Statuses[3].GameName,Minimal,最少
 DislikesFemaleTraits_Statuses[4].GameName,Neutral,
 DislikesMaleTraits_GameName,Dislikes Male Traits,
 DislikesMaleTraits_Statuses[0].GameName,Very High,
 DislikesMaleTraits_Statuses[1].GameName,High,
-DislikesMaleTraits_Statuses[2].GameName,Moderate,
-DislikesMaleTraits_Statuses[3].GameName,Minimal,
+DislikesMaleTraits_Statuses[2].GameName,Moderate,普通
+DislikesMaleTraits_Statuses[3].GameName,Minimal,最少
 DislikesMaleTraits_Statuses[4].GameName,Neutral,
 LikesFemaleTraits_GameName,Likes Female Traits,
 LikesFemaleTraits_Statuses[0].GameName,Very High,
 LikesFemaleTraits_Statuses[1].GameName,High,
-LikesFemaleTraits_Statuses[2].GameName,Moderate,
-LikesFemaleTraits_Statuses[3].GameName,Minimal,
+LikesFemaleTraits_Statuses[2].GameName,Moderate,普通
+LikesFemaleTraits_Statuses[3].GameName,Minimal,最少
 LikesFemaleTraits_Statuses[4].GameName,Neutral,
 LikesMaleTraits_GameName,Likes Male Traits,
 LikesMaleTraits_Statuses[0].GameName,Very High,
 LikesMaleTraits_Statuses[1].GameName,High,
-LikesMaleTraits_Statuses[2].GameName,Moderate,
-LikesMaleTraits_Statuses[3].GameName,Minimal,
+LikesMaleTraits_Statuses[2].GameName,Moderate,普通
+LikesMaleTraits_Statuses[3].GameName,Minimal,最少
 LikesMaleTraits_Statuses[4].GameName,Neutral,
 Sexuality_GameName,Sexuality,
 Sexuality_Statuses[0].GameName,Axexual,
@@ -26515,36 +26515,36 @@ HairType_Statuses[2].GameName,Curly,
 HairType_Statuses[3].GameName,Coily,
 PartnerTab_Appearance_TabName,Appearance,
 PartnerTab_Details_TabName,Details,
-GpTag_Bark_TabName,Bark,
+GpTag_Bark_TabName,Bark,樹皮
 GpTag_BirdCarcass_TabName,Bird Carcass,
 GpTag_DryStalks_TabName,Dry Stalks,
 GpTag_SpiritHerb_TabName,Spirit Herb,
-tag_LQ_FertilizerWeak_InGameName,Weak Fertilizer,
+tag_LQ_FertilizerWeak_InGameName,Weak Fertilizer,弱い肥料
 tag_FillingPrecursor_InGameName,Filling Precursor,
 tag_FoodAcid_InGameName,Acid,
-tag_FoodBitter_InGameName,Bitter,
+tag_FoodBitter_InGameName,Bitter,苦い
 tag_FoodBland_InGameName,Bland,
 tag_FoodCrunchy_InGameName,Crunchy,
 tag_FoodFatty_InGameName,Fatty,
-tag_FoodPungent_InGameName,Pungent,
+tag_FoodPungent_InGameName,Pungent,刺激的
 tag_FoodRaw_InGameName,Soft Food,
 tag_FoodRefreshing_InGameName,Crunchy,
-tag_FoodSavoury_InGameName,Savoury,
+tag_FoodSavoury_InGameName,Savoury,美味しい
 tag_FoodSoft_InGameName,Soft Food,
 tag_FoodStarchy_InGameName,Starchy,
 tag_FoodSweet_InGameName,Sweet,
 tag_HumanDrink_InGameName,Human Drink,
 tag_Minceable_InGameName,Minceable,
-tag_Door_InGameName,Secure,
+tag_Door_InGameName,Secure,安全
 tag_FiberClothing_InGameName,Fiber Clothing,
-tag_LeatherClothing_InGameName,Leather Clothing,
-tag_PriorityClothing_InGameName,Leather Clothing,
+tag_LeatherClothing_InGameName,Leather Clothing,革の衣服
+tag_PriorityClothing_InGameName,Leather Clothing,革の衣服
 tag_ReedClothing_InGameName,Reed Clothing,
 HAS_NO_HOME,Has no Home,
 HOME_IS,Home is {0},
 LOCATION_WITHIN_LOCATION,{0} in {1},
 PartnerDialog_ExpressAffection_Express Affection_Line,Your partner approaches you and expresses affection.,
-PartnerDialog_ExpressAffection_Express Affection_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ExpressAffection_Express Affection_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDuty_ExpressAffection_DutyName,Express Affection,
 Agent_Partner_HelpSection,"<b>How can I get my partner to help me?</b>\nMark cards for specific duties or place them in your partner's inventory and they will work on them. Make sure they have the appropriate tools if necessary.\n\n<b>Why is my partner not doing his duties? </b>\nMost likely because they're feeling resentful (visible in the details tab). If you see them resentful stop assigning duties for a while until they feel better.\n\n<b>Why is my partner always resentful?</b>\nDepending on their personality and how much they trust you, partners will get resentful faster when you ask for help. If you treat them well, their trust and affection will increase and they will gradually become more helpful.\n\n<b>Why does my partner want attention or feel neglected?</b>\nProbably because you haven't talked to them in a while. Try talking to them every now and then to keep them happy. ""Casual talk"" is usually the easiest option.\n\n<b>How can I ensure my partner reacts positvely to what I say?</b>\nMake sure your partner is not feeling akward and otherwise wait until that's no longer the case. Use ""listen"" only if your focus is high. \n",
 IS_BUSY,Is busy with a task.,
@@ -26559,19 +26559,19 @@ PartnerDialog_Directions_Expeditions Hub_PossibleAnswers[2].Answer,Go Fishing,
 PartnerDialog_Directions_Expeditions Hub_PossibleAnswers[3].Answer,Go Hunting,
 PartnerDialog_Directions_Expeditions Hub_PossibleAnswers[4].Answer,Cancel Expeditions,
 PartnerDialog_Directions_Foraging Go!_Line,Your partner prepares to go foraging and promises to return once enough food has been found or before it gets dark.,
-PartnerDialog_Directions_Foraging Go!_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_Directions_Foraging Go!_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_Directions_Fishing Go!_Line,Your partner prepares to go fishing and promises to return once enough fish has been found or before it gets dark.,
-PartnerDialog_Directions_Fishing Go!_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_Directions_Fishing Go!_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_Directions_Cancel Expeditions_Line,Your partner cancels all expeditions and complex tasks.,
-PartnerDialog_Directions_Cancel Expeditions_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_Directions_Cancel Expeditions_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_Directions_Hunting Go!_Line,Your partner prepares to go hunting and promises to return once something has been caught or before it gets dark.,
-PartnerDialog_Directions_Hunting Go!_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_Directions_Hunting Go!_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ReportFishing_Report - Fishing_Line,Your partner has returned from a fishing expedition.,
-PartnerDialog_ReportFishing_Report - Fishing_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ReportFishing_Report - Fishing_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ReportForaging_Report - Foraging_Line,Your partner has returned from a foraging expedition.,
-PartnerDialog_ReportForaging_Report - Foraging_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ReportForaging_Report - Foraging_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDialog_ReportHunting_Report - Foraging_Line,Your partner has returned from a hunting expedition.,
-PartnerDialog_ReportHunting_Report - Foraging_PossibleAnswers[0].Answer,Continue,
+PartnerDialog_ReportHunting_Report - Foraging_PossibleAnswers[0].Answer,Continue,続ける
 PartnerDuty_BaitFishing_DutySummary,Adding bait to hook.,
 PartnerDuty_Bedkeeping_DutySummary,Adding leaves to the bed.,
 PartnerDuty_BrainTan_DutySummary,Brain tanning.,
@@ -26688,7 +26688,7 @@ PartnerDuty_TestBp_DutySummary,Adding bait to hook.,
 PartnerDuty_ThreshWheatOrRye_DutyName,Thresh Sheaves,
 PartnerDuty_ThreshWheatOrRye_DutySummary,Threshing grain from sheaves.,
 PartnerDuty_WarmUp_DutySummary,Warming up by the fire.,
-PartnerPerk_LikesSpiritual_PerkName,Spiritual,
+PartnerPerk_LikesSpiritual_PerkName,Spiritual,霊的
 PartnerPerk_LikesSpiritual_PerkDescription,"Likes performing spiritual tasks, such as releasing animal spirits.",
 Partner_LikesSpiritualTasks_Statuses[0].GameName,Really Likes,
 Partner_LikesSpiritualTasks_Statuses[1].GameName,Likes,
@@ -26696,37 +26696,37 @@ Partner_LikesSpiritualTasks_Statuses[2].GameName,Dislikes,
 Partner_LikesSpiritualTasks_Statuses[3].GameName,Really Dislikes,
 Bp_Cabin_BpDutySetup.DutyName,Build Cabin,
 Bp_Cabin_BpDutySetup.DutySummary,Bulding a cabin.,
-Bp_Cast_BlankArrowBroadhead_BpDutySetup.DutyName,Cast Broadhead Arrows,
+Bp_Cast_BlankArrowBroadhead_BpDutySetup.DutyName,Cast Broadhead Arrows,鋳造の幅広の矢
 Bp_Cast_BlankArrowBroadhead_BpDutySetup.DutySummary,Casting broadhead arrows.,
-Bp_Cast_BlankArrowHeads_BpDutySetup.DutyName,Cast Arrow Heads,
+Bp_Cast_BlankArrowHeads_BpDutySetup.DutyName,Cast Arrow Heads,鋳造された矢じり
 Bp_Cast_BlankArrowHeads_BpDutySetup.DutySummary,Casting arrow heads.,
-Bp_Cast_BlankAxeHead_BpDutySetup.DutyName,Cast Axe Head,
+Bp_Cast_BlankAxeHead_BpDutySetup.DutyName,Cast Axe Head,鋳造された斧頭
 Bp_Cast_BlankAxeHead_BpDutySetup.DutySummary,Casting an axe head.,
-Bp_Cast_BlankButcheringKnifeBlade_BpDutySetup.DutyName,Cast Butchering Knife Blade,
+Bp_Cast_BlankButcheringKnifeBlade_BpDutySetup.DutyName,Cast Butchering Knife Blade,鋳造解体用ナイフの刃
 Bp_Cast_BlankButcheringKnifeBlade_BpDutySetup.DutySummary,Casting a butchering knife blade.,
-Bp_Cast_BlankChiselBlade_BpDutySetup.DutyName,Cast Chisel Blade,
+Bp_Cast_BlankChiselBlade_BpDutySetup.DutyName,Cast Chisel Blade,鋳造されたのみ刃
 Bp_Cast_BlankChiselBlade_BpDutySetup.DutySummary,Casting a chisel blade.,
-Bp_Cast_BlankDrawknifeBlade_BpDutySetup.DutyName,Cast Drawknife Blade,
+Bp_Cast_BlankDrawknifeBlade_BpDutySetup.DutyName,Cast Drawknife Blade,鋳造ドローナイフの刃
 Bp_Cast_BlankDrawknifeBlade_BpDutySetup.DutySummary,Casting a drawknife blade.,
-Bp_Cast_BlankHoeHead_BpDutySetup.DutyName,Cast Hoe Head,
+Bp_Cast_BlankHoeHead_BpDutySetup.DutyName,Cast Hoe Head,鋳造されたクワの刃
 Bp_Cast_BlankHoeHead_BpDutySetup.DutySummary,Casting a hoe head.,
 Bp_Cast_BlankHuntingSpearHead_BpDutySetup.DutyName,Cast Hunting Spear Head,
 Bp_Cast_BlankHuntingSpearHead_BpDutySetup.DutySummary,Casting a hunting spear head.,
-Bp_Cast_BlankKnifeBlade_BpDutySetup.DutyName,Cast Knife Blade,
+Bp_Cast_BlankKnifeBlade_BpDutySetup.DutyName,Cast Knife Blade,鋳造されたナイフ刃
 Bp_Cast_BlankKnifeBlade_BpDutySetup.DutySummary,Casting a knife blade.,
-Bp_Cast_BlankMeatHook_BpDutySetup.DutyName,Cast Meat Hook,
+Bp_Cast_BlankMeatHook_BpDutySetup.DutyName,Cast Meat Hook,鋳造の肉吊りフック
 Bp_Cast_BlankMeatHook_BpDutySetup.DutySummary,Casting a meat hook.,
-Bp_Cast_BlankScytheBlade_BpDutySetup.DutyName,Cast Scythe Blade,
+Bp_Cast_BlankScytheBlade_BpDutySetup.DutyName,Cast Scythe Blade,鋳造された大鎌刃
 Bp_Cast_BlankScytheBlade_BpDutySetup.DutySummary,Casting a scythe blade.,
-Bp_Cast_BlankShovelHead_BpDutySetup.DutyName,Cast Shovel Head,
+Bp_Cast_BlankShovelHead_BpDutySetup.DutyName,Cast Shovel Head,鋳造されたシャベル頭
 Bp_Cast_BlankShovelHead_BpDutySetup.DutySummary,Casting a shovel head.,
-Bp_Cast_BlankSickleBlade_BpDutySetup.DutyName,Cast Sickle Blade,
+Bp_Cast_BlankSickleBlade_BpDutySetup.DutyName,Cast Sickle Blade,鋳造された鎌刃
 Bp_Cast_BlankSickleBlade_BpDutySetup.DutySummary,Casting a sickle blade.,
-Bp_Cast_BlankSkinningKnifeBlade_BpDutySetup.DutyName,Cast Skinning Knife Blade,
+Bp_Cast_BlankSkinningKnifeBlade_BpDutySetup.DutyName,Cast Skinning Knife Blade,鋳造皮剥ぎナイフの刃
 Bp_Cast_BlankSkinningKnifeBlade_BpDutySetup.DutySummary,Casting a skinning knife blade.,
-Bp_Cast_BlankSpearHead_BpDutySetup.DutyName,Cast Spear Head,
+Bp_Cast_BlankSpearHead_BpDutySetup.DutyName,Cast Spear Head,鋳造された槍先
 Bp_Cast_BlankSpearHead_BpDutySetup.DutySummary,Casting a spear head.,
-Bp_Cast_BlankSpoonBit_BpDutySetup.DutyName,Cast Spoon Bit,
+Bp_Cast_BlankSpoonBit_BpDutySetup.DutyName,Cast Spoon Bit,鋳造スプーンビット
 Bp_Cast_BlankSpoonBit_BpDutySetup.DutySummary,Casting a spoon bit.,
 Bp_Cellar_BpDutySetup.DutyName,Build Cellar,
 Bp_Cellar_BpDutySetup.DutySummary,Building a cellar.,
@@ -27010,11 +27010,11 @@ Bp_StomachPouch_BpDutySetup.DutyName,Sew Stomach Pouch,
 Bp_StomachPouch_BpDutySetup.DutySummary,Sewing a stomach pouch.,
 Bp_Torch_BpDutySetup.DutyName,Craft Torch,
 Bp_Torch_BpDutySetup.DutySummary,Crafting a torch.,
-Bp_TourniquetRustic_BpDutySetup.DutyName,Craft Tourniquet,
+Bp_TourniquetRustic_BpDutySetup.DutyName,Craft Tourniquet,止血帯を作る
 Bp_TourniquetRustic_BpDutySetup.DutySummary,Crafting a tourniquet.,
-Bp_Twine_BpDutySetup.DutyName,Make Twine,
+Bp_Twine_BpDutySetup.DutyName,Make Twine,撚り紐を作る
 Bp_Twine_BpDutySetup.DutySummary,Making twine.,
-Bp_TwineSpinningWheel_BpDutySetup.DutyName,Make Twine,
+Bp_TwineSpinningWheel_BpDutySetup.DutyName,Make Twine,撚り紐を作る
 Bp_TwineSpinningWheel_BpDutySetup.DutySummary,Making twine.,
 Bp_WaterPouch_BpDutySetup.DutyName,Sew Water Pouch,
 Bp_WaterPouch_BpDutySetup.DutySummary,Sewing a water pouch.\n,
@@ -27036,7 +27036,7 @@ Bp_Bloomery_BpDutySetup.DutyName,Construct Bloomery,
 Bp_Bloomery_BpDutySetup.DutySummary,Constructing a bloomery.,
 Bp_Cage_BpDutySetup.DutyName,Construct Cage,
 Bp_Cage_BpDutySetup.DutySummary,Constructing a cage.,
-Bp_Clay_BpDutySetup.DutyName,Make Clay,
+Bp_Clay_BpDutySetup.DutyName,Make Clay,粘土を作る
 Bp_Clay_BpDutySetup.DutySummary,Making some clay.,
 Bp_CloverField_BpDutySetup.DutyName,Seed Clover Field,
 Bp_CloverField_BpDutySetup.DutySummary,Planting a clover field.,
@@ -27060,7 +27060,7 @@ Bp_Furnace_BpDutySetup.DutyName,Build Furnace,
 Bp_Furnace_BpDutySetup.DutySummary,Building a furnace.,
 Bp_GardenPlot_BpDutySetup.DutyName,Prepare Garden Plot,
 Bp_GardenPlot_BpDutySetup.DutySummary,Preparing a garden plot.,
-Bp_HandDrill_BpDutySetup.DutyName,Craft Hand Drill,
+Bp_HandDrill_BpDutySetup.DutyName,Craft Hand Drill,火おこし器を作る
 Bp_HandDrill_BpDutySetup.DutySummary,Crafting a hand drill.,
 Bp_HeatherField_BpDutySetup.DutyName,Plant Heather Field,
 Bp_HeatherField_BpDutySetup.DutySummary,Planting a heather field.,
@@ -27090,7 +27090,7 @@ Bp_PotteryWheel_BpDutySetup.DutyName,Construct Pottery Wheel,
 Bp_PotteryWheel_BpDutySetup.DutySummary,Constructing a pottery wheel.,
 Bp_RusticBarrel_BpDutySetup.DutyName,Construct Rustic Barrel,
 Bp_RusticBarrel_BpDutySetup.DutySummary,Constructing a rustic barrel.,
-Bp_RusticSpear_BpDutySetup.DutyName,Craft Rustic Spear,
+Bp_RusticSpear_BpDutySetup.DutyName,Craft Rustic Spear,シンプルな槍を作る
 Bp_RusticSpear_BpDutySetup.DutySummary,Crafting a rustic spear.,
 Bp_RusticTable_BpDutySetup.DutyName,Construct Rustic Table,
 Bp_RusticTable_BpDutySetup.DutySummary,Constructing a rustic table.,
@@ -27098,7 +27098,7 @@ Bp_RyeField_BpDutySetup.DutyName,Plant Rye Field,
 Bp_RyeField_BpDutySetup.DutySummary,Planting a rye field.,
 Bp_Sawhorses_BpDutySetup.DutyName,Construct Sawhorses.,
 Bp_Sawhorses_BpDutySetup.DutySummary,Constructing sawhorses.,
-Bp_SharpenedStone_BpDutySetup.DutyName,Sharpen Stone,
+Bp_SharpenedStone_BpDutySetup.DutyName,Sharpen Stone,石を研ぐ
 Bp_SharpenedStone_BpDutySetup.DutySummary,Sharpening a stone.,
 Bp_Shelf_BpDutySetup.DutyName,Construct Shelf,
 Bp_Shelf_BpDutySetup.DutySummary,Constructing a shelf.,
@@ -27118,7 +27118,7 @@ Bp_SpiritShrine_Frost_FrostShrine_BpDutySetup.DutyName,Construct Frost Shrine\n,
 Bp_SpiritShrine_Frost_FrostShrine_BpDutySetup.DutySummary,Constructing a frost shrine.,
 Bp_Splint_BpDutySetup.DutyName,Craft Splint,
 Bp_Splint_BpDutySetup.DutySummary,Crafting a splint.,
-Bp_StoneAxe_BpDutySetup.DutyName,Craft Stone Axe,
+Bp_StoneAxe_BpDutySetup.DutyName,Craft Stone Axe,石斧を作る
 Bp_StoneAxe_BpDutySetup.DutySummary,Crafting a stone axe.,
 Bp_StretchingFrame_BpDutySetup.DutyName,Construct Stretching Frame,
 Bp_StretchingFrame_BpDutySetup.DutySummary,Constructing a stretching frame.,
@@ -27220,15 +27220,15 @@ Bp_Hideout_BpDutySetup.DutyName,Construct Hideout,
 Bp_Hideout_BpDutySetup.DutySummary,Construcing a hideout.,
 Bp_SnowShelter_BpDutySetup.DutyName,Construct Snow Shelter,
 Bp_SnowShelter_BpDutySetup.DutySummary,Constructing a snow shelter.,
-Bp_CurseGrove_BpDutySetup.DutyName,Curse Grove,
+Bp_CurseGrove_BpDutySetup.DutyName,Curse Grove,呪いの木立
 Bp_CurseGrove_BpDutySetup.DutySummary,Curse a grove.,
 Bp_MaidenCharm_BpDutySetup.DutyName,Craft Maiden Charm,
 Bp_MaidenCharm_BpDutySetup.DutySummary,Crafting a maiden charm.,
-RainCistern_DismantleActions[2].ActionName,Demolish,
-CrayfishRaw_SpecialDurability4.CardStatName,Boil,
-MeatBrainMush_Progress.CardStatName,Boil,
-FishScraps_FuelCapacity.CardStatName,Temperature,
-FishScraps_SpecialDurability1.CardStatName,Cook,
-FishScrapsCooked_SpecialDurability1.CardStatName,Burned,
-CrayfishCooked_SpecialDurability4.CardStatName,Boil,
+RainCistern_DismantleActions[2].ActionName,Demolish,解体する
+CrayfishRaw_SpecialDurability4.CardStatName,Boil,茹でる
+MeatBrainMush_Progress.CardStatName,Boil,茹でる
+FishScraps_FuelCapacity.CardStatName,Temperature,温度
+FishScraps_SpecialDurability1.CardStatName,Cook,料理する
+FishScrapsCooked_SpecialDurability1.CardStatName,Burned,焦げた
+CrayfishCooked_SpecialDurability4.CardStatName,Boil,茹でる
 FluteWooden_DismantleActions[4].ActionDescription,Partner 76-149,
